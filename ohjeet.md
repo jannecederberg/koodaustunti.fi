@@ -1,6 +1,6 @@
 ---
 layout: yksi-palsta
-title: Ohjeet
+title: Miten aloitan?
 ---
 
 ## Kuinka voin aloittaa koodaamaan?
@@ -15,8 +15,10 @@ title: Ohjeet
 - [Oppimisympäristönä peliohjelmointi](http://www.youtube.com/channel/UChtMdpkl0jyesBH9YorPWqg)
 
 ### Verkkokurssit
+
 - [Helsingin Yliopiston Tietojenkäsittelytieteen "massive open online course"](http://www.mooc.fi)
 	- sopii ainakin lukiolaisille!
+- [Code Academy](http://codecademy.com)
 
 
 ### Pelaamalla
