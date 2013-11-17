@@ -8,23 +8,10 @@ ikoni: pencil
 
 ---
 
-Koulutukset listattuna, uusin ylimpänä.
+## Blogiartikkelit
 
-<table class="table">
-	<tr>
-		<th>Päivämäärä</th>
-		<th>Aika</th>
-		<th>Otsikko</th>
-		<th>Koulutuspaikka</th>
-		<th>Kouluttaja(t)</th>
-	</tr>
+<ul>
 	{% for artikkeli in site.posts %}
-	<tr>
-		<td>{{ artikkeli.date | date:"%d.%m.%Y" }}</td>
-		<td>{{ artikkeli.aika }}</td>
-    	<td><a href="{{ artikkeli.url }}">{{ artikkeli.title }}</a></td>
-    	<td>{{ artikkeli.paikka }}</td>
-    	<td>{{ artikkeli.kouluttaja }}</td>
-    </tr>
+		<li>{{ artikkeli.date | date:"%d.%m.%Y" }}: <a href="{{ artikkeli.url }}">{{ artikkeli.title }}</a></li>
 	{% endfor %}
-</table>
+</ul>
