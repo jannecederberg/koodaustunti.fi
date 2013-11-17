@@ -1,6 +1,7 @@
 ---
 layout: yksi-palsta
 title: Pajat
+permalink: /pajat/
 ---
 
 ## Helsingin yliopisto

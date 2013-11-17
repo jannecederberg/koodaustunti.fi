@@ -1,6 +1,7 @@
 ---
 layout: yksi-palsta
 title: Miten aloitan?
+permalink: /ohjeet/
 ---
 
 ## Kuinka voin aloittaa koodaamaan?
