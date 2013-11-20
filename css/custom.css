@@ -2,6 +2,20 @@
     color: white !important;
 }
 
+.kumppanit li {
+    height: 90px;
+    float: left;
+    width: 350px;
+}
+
+/*-------( CLEARFIX )-------*/
+.clearfix:before, .clearfix:after {
+    content: " ";
+    display: table;
+}
+.clearfix:after { clear: both; }
+.clearfix { *zoom: 1; }
+
 /*-------( RESPONSIVE EMBEDS )-------*/
 /* see: http://amobil.se/2011/11/responsive-embeds/ */
 

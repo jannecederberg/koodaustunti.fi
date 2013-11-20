@@ -1,10 +1,10 @@
 ---
-layout: yksi-palsta
+layout: kaksi-palstaa
 title: Miten aloitan?
-permalink: /ohjeet/
+permalink: /miten-aloitan-koodaamaan/
 ---
 
-## Kuinka voin aloittaa koodaamaan?
+## Miten aloitan koodaamaan?
 
 ### Scratch
 - [Ohjelmointia Scratchin kanssa](http://avoinoppikirja.fi/tiedostot/muut/ohjelmointia_scratchin_kanssa.pdf)
@@ -24,7 +24,7 @@ permalink: /ohjeet/
 
 ### Pelaamalla
 
-- Codecombat "Learn to Code JavaScript by Playing a Game"
+- [Codecombat](http://codecombat.com/): "Learn to Code JavaScript by Playing a Game"
 
 ### Ilman tietokonetta
 - [Majava-kilpailun materiaalit](http://www.majava-kilpailu.fi/)

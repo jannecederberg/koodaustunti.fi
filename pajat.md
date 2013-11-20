@@ -1,5 +1,5 @@
 ---
-layout: yksi-palsta
+layout: kaksi-palstaa
 title: Pajat
 permalink: /pajat/
 ---
