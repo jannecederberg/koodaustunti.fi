@@ -1,4 +1,5 @@
 name: Koodaustunti
-tapahtuman-paivays: 9.-15.12.2013
 markdown: redcarpet
 pygments: true
+
+viikko: "9.-15.12.2013"

@@ -1,56 +1,23 @@
-{% include head.html %}
+---
+layout: base
+callToAction: true
+---
 
-  <body>
+<div class="4u">
 
-    <!-- Header -->
-      <div id="header-wrapper">
-        <header id="header" class="container">
-          <div class="row">
-            <div class="12u">
-            
-              <!-- Logo ja valikko -->
-                {% include logo-ja-valikko.html %}
+  <!-- Mikä on Koodaustunti? -->
+    {% include _etusivu_mika-on-koodaustunti.html %}
 
-            </div>
-          </div>
-        </header>
-        <div id="banner">
-          <div class="container">
-            {% include _etusivu_call-to-action.html %}
-          </div>
-        </div>
-      </div>
+</div>
+<div class="4u">
 
-    <!-- Content -->
-      <div id="content-wrapper">
-        <div id="content">
-          <div class="container">
-            <div class="row">
-              <div class="4u">
+  <!-- Miksi kannattaa osallistua? -->
+    {% include _etusivu_miksi-osallistua.html %}
 
-                <!-- Mikä on Koodaustunti? -->
-                  {% include _etusivu_mika-on-koodaustunti.html %}
+</div>
+<div class="4u">
 
-              </div>
-              <div class="4u">
+  <!-- Osallistujien kokemuksia -->
+  {% include _etusivu_osallistujien-kokemuksia.html %}
 
-                <!-- Miksi kannattaa osallistua? -->
-                  {% include _etusivu_miksi-osallistua.html %}
-
-              </div>
-              <div class="4u">
-
-                <!-- Osallistujien kokemuksia -->
-                {% include _etusivu_osallistujien-kokemuksia.html %}
-
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-    <!-- Footer -->
-      {% include footer.html %}
-
-  </body>
-</html>
+</div>

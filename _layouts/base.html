@@ -7,7 +7,7 @@
 <html>
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-    <title>{% if page.url != "/index.html" %}{{ page.title }} | {% endif %}{{ site.name }}</title>
+    <title>{% if page.url != "/index.html" %}{{ page.title }} | {% endif %}{{ site.name }}, {{ site.viikko }}</title>
     <meta name="description" content="" />
     <meta name="keywords" content="" />
       <script src="/js/jquery.min.js"></script>
@@ -25,7 +25,7 @@
     <!--[if lte IE 8]><script src="/js/html5shiv.js"></script><![endif]-->
   </head>
 
-  <body class="subpage">
+  <body>
 
     <!-- Header -->
     <div id="header-wrapper">
@@ -34,11 +34,19 @@
           <div class="12u">
 
             <!-- Logo ja valikko -->
-              {% include logo-ja-valikko.html %}
+            {% include logo-ja-valikko.html %}
 
           </div>
         </div>
       </header>
+
+      {% if page.callToAction %}
+      <div id="banner">
+        <div class="container">
+          {% include _etusivu_call-to-action.html %}
+        </div>
+      </div>
+      {% endif %}
     </div>
 
     <!-- Content -->
@@ -110,7 +118,7 @@
                   <div class="row">
                     <div class="6u">
                       <ul class="link-list last-child">
-                        <li><a href="#"><i class="fa fa-facebook-square"></i> Facebook</a></li>
+                        <li><a href="https://www.facebook.com/events/552063884884177/"><i class="fa fa-facebook-square"></i> Facebook</a></li>
                         <li><a href="#"><i class="fa fa-twitter"></i> Twitter</a></li>
                         <li><a href="https://github.com/jannecederberg/koodaustunti.fi/"><i class="fa fa-github"></i> GitHub</a></li>
                       </ul>

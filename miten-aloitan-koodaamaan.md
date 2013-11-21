@@ -6,6 +6,10 @@ permalink: /miten-aloitan-koodaamaan/
 
 ## Miten aloitan koodaamaan?
 
+Ohjelmointi on paljolti niinkuin urheilu, parhaiten oppii kun alkaa tehdä! Hyväksi jääkiekkoilijaksikaan ei kehity vain katsomalla kun muut pelaavat. Eli ei kait siinä muuta kuin liikkeelle, you can do it :)
+
+<a href="" class="button-big">Kokeile samantien</a> tai <a href="/pajat/" class="button-big">Osallistu pajaan</a>
+
 ### Scratch
 - [Ohjelmointia Scratchin kanssa](http://avoinoppikirja.fi/tiedostot/muut/ohjelmointia_scratchin_kanssa.pdf)
 - [Scratch-klubi](https://sites.google.com/site/scratchklubi/)

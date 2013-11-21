@@ -13,12 +13,37 @@ layout: base
 	<!-- Sidebar -->
 	<section>
 		<header>
-			<h2>Muut artikkelit</h2>
+			<h2>Ilmoittautuneita</h2>
+			<p>
+				Tällä hetkellä ilmoittautuneita on <strong id="opettajia"></strong> opettajaa ja <strong id="opiskelijoita"></strong> opiskelijaa!
+			</p>
+			<p>
+				Vielä tarvitaan <strong id="opiskelijoita-puuttuu"></strong> opiskelijaa mukaan. Oletko sinä yksi heistä?
+			</p>
 		</header>
-		<ul class="link-list">
-			{% for artikkeli in site.posts %}
-				<li><time datetime="{{ artikkeli.date | date:"%Y-%m-%d" }}">{{ artikkeli.date | date:"%d.%m.%Y" }}</time> <a href="{{ artikkeli.url }}">{{ artikkeli.title }}</a></li>
-			{% endfor %}
-		</ul>
 	</section>
+	<script>
+
+	var gsheet = gsheet || {};
+	gsheet.spreadsheet_url = 'http://spreadsheets.google.com/feeds/list/0Ahxw_PAkk4mkdDNESF9SbU8zZ2lIbWdzUHZwTFJyTWc/2/public/basic?alt=json';
+	var tavoite = 10000;
+
+	gsheet.parse_value = function(str) {
+		return str.substring(str.indexOf(':')+2);
+	};
+
+	$(document).ready( function() {
+	  var $xhr = $.ajax(gsheet.spreadsheet_url)
+	  	.done( function() {
+			var json = JSON.parse($xhr.responseText);
+			var opettajia = gsheet.parse_value(json.feed.entry[0].content.$t);
+			var opiskelijoita = gsheet.parse_value(json.feed.entry[1].content.$t);
+			$('#opettajia').text(opettajia);
+			$('#opiskelijoita').text(opiskelijoita);
+			var puuttuu = tavoite-parseInt(opiskelijoita);
+			$('#opiskelijoita-puuttuu').text(puuttuu.toString());
+	  	});
+	});
+
+	</script>
 </div>
