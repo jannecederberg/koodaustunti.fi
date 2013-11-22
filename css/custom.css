@@ -8,6 +8,12 @@
     width: 350px;
 }
 
+/*-------( OSALLISTUJAMÄÄRIEN KOROSTUS )-------*/
+#opettajia, #opiskelijoita, #opiskelijoita-puuttuu {
+    font-size: 2em;
+    color: orange;
+}
+
 /*-------( CLEARFIX )-------*/
 .clearfix:before, .clearfix:after {
     content: " ";
