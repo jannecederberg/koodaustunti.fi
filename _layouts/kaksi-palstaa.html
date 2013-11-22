@@ -26,7 +26,7 @@ layout: base
 
 	var gsheet = gsheet || {};
 	gsheet.spreadsheet_url = 'http://spreadsheets.google.com/feeds/list/0Ahxw_PAkk4mkdDNESF9SbU8zZ2lIbWdzUHZwTFJyTWc/2/public/basic?alt=json';
-	var tavoite = 10000;
+	var tavoite = {{ site.osallistujatavoite }};
 
 	gsheet.parse_value = function(str) {
 		return str.substring(str.indexOf(':')+2);
