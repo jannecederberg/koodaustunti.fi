@@ -19,5 +19,5 @@ gsheet.show_enrollments = function(json) {
 	$('#opettajia').text(opettajia);
 	$('#opiskelijoita').text(opiskelijoita);
 	var puuttuu = tavoite-parseInt(opiskelijoita);
-	$('#opiskelijoita-puuttuu').text(puuttuu.toString());
+	$('#opiskelijoita-puuttuu').text(puuttuu);
 };
