@@ -23,6 +23,9 @@
     <!--[if lte IE 9]><link rel="stylesheet" href="/css/vendor/skel/ie9.css" /><![endif]-->
     <!--[if lte IE 8]><script src="/js/vendor/html5shiv.js"></script><![endif]-->
     <link rel="stylesheet" href="/css/custom.css" />
+    {% if page.colorbox %}
+      <link rel="stylesheet" type="text/css" href="/css/vendor/colorbox/colorbox.css" />
+    {% endif %}
   </head>
 
   <body>
@@ -146,5 +149,12 @@
 
     <script type="text/javascript" src="/js/osallistujamaarat.js"></script>
     <script type="text/javascript" src="//spreadsheets.google.com/feeds/list/0Ahxw_PAkk4mkdDNESF9SbU8zZ2lIbWdzUHZwTFJyTWc/2/public/basic?alt=json-in-script&callback=gsheet.show_enrollments"></script>
+
+    {% if page.colorbox %}
+      <script type="text/javascript" src="/js/vendor/colorbox/jquery.colorbox-min.js"></script>
+      <script type="text/javascript">
+        $('.colorbox-iframe').colorbox({iframe: true, width: "90%", height: "100%"});
+      </script>
+    {% endif %}
   </body>
 </html>
