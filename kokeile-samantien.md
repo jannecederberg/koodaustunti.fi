@@ -9,33 +9,8 @@ permalink: /kokeile-samantien/
 
 Voit heti kokeilla ohjelmointia Scratch-ympäristön avulla. Ethän anna kissahahmon naiviuden hämätä; Scratch on erittäin monipuolinen työkalu ohjelmoinnin perusteiden harjoitteluun (ja kissahahmosta pääsee myös helposti eroon :)
 
-<!--should be opaque in order for IE to render its z-index correctly -->
-<!--object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="100%" height="100%" id="scratch" style="visibility:visible">
-	<param name="movie" value="//cdn.scratch.mit.edu/scratchr2/static/__1385142232__/Scratch.swf" />
-	<param name="allowScriptAccess" value="always" />
-	<param name="allowFullScreen" value="true" />
-	<param name="wmode" value="opaque" />
-	<param name="menu" value="false">
-	<param name="flashvars" value="cloudToken=">
-
-</object-->
-
 <div class="embed-container">
-	<object type="application/x-shockwave-flash" data="//cdn.scratch.mit.edu/scratchr2/static/__1385142232__/Scratch.swf" width="100%" height="100%"  style="visibility:visible">
-		<param name="movie" value="//cdn.scratch.mit.edu/scratchr2/static/__1385142232__/Scratch.swf" />
-		<param name="allowScriptAccess" value="always">
-		<param name="allowFullScreen" value="true">
-		<param name="wmode" value="opaque">
-		<param name="menu" value="false">
-		<param name="flashvars" value="cloudToken=">
-		<div style="text-align:center;margin:10px;">
-		<img src="//cdn.scratch.mit.edu/scratchr2/static/__1385142232__//images/private_cat.png" style="height:179px;"/>
-		<p style="color:#aaa;font-size:22px;margin-top:14px;line-height:28px;">Oh Noes! Scratch project cannot display.<br/>Flash player is disabled or missing.</p>
-		<a href="http://www.adobe.com/go/getflashplayer">
-	  		<img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" target="_blank" />
-		</a>
-	</div>
-	</object>
+	<iframe src="http://scratch.mit.edu/projects/editor/?tip_bar=getStarted" frameborder="0" width="1200" height="1200" height="675"></iframe>
 </div>
 
 ### Scratch
