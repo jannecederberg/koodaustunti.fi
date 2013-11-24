@@ -158,8 +158,10 @@
           width: "90%",
           height: "100%",
           title: function() {
-            var url = $(this).attr('href');
-            return 'Voit halutessasi avata tämän näkymän <a href="' +url+ '" target="_blank">uuteen ikkunaan</a>';
+            var $el   = $(this);
+            var url   = $el.attr('href');
+            var title = $el.attr('title');
+            return title + ' [Huomaa, että voit avata näkymän myös <a href="' +url+ '" target="_blank">uuteen ikkunaan</a>]';
           }
         });
       </script>
