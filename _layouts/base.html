@@ -153,7 +153,15 @@
     {% if page.colorbox %}
       <script type="text/javascript" src="/js/vendor/colorbox/jquery.colorbox-min.js"></script>
       <script type="text/javascript">
-        $('.colorbox-iframe').colorbox({iframe: true, width: "90%", height: "100%"});
+        $('.colorbox-iframe').colorbox({
+          iframe: true,
+          width: "90%",
+          height: "100%",
+          title: function() {
+            var url = $(this).attr('href');
+            return 'Voit halutessasi avata tämän näkymän <a href="' +url+ '" target="_blank">uuteen ikkunaan</a>';
+          }
+        });
       </script>
     {% endif %}
   </body>
