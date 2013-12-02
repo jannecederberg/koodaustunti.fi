@@ -4,13 +4,12 @@ title: Kokeile samantien!
 permalink: /kokeile-samantien/
 ---
 
-<!-- testi -->
 ## Kokeile samantien!
 
 Voit heti kokeilla ohjelmointia Scratch-ympäristön avulla. Ethän anna kissahahmon naiviuden hämätä; Scratch on erittäin monipuolinen työkalu ohjelmoinnin perusteiden harjoitteluun (ja kissahahmosta pääsee myös helposti eroon :)
 
 <div class="embed-container">
-	<iframe src="http://scratch.mit.edu/projects/editor/?tip_bar=getStarted" frameborder="0" width="1200" height="1200" height="675"></iframe>
+	<iframe src="http://scratch.mit.edu/projects/editor/?tip_bar=getStarted" frameborder="0" width="1200" height="675" class="colorbox-iframe"></iframe>
 </div>
 
 ### Scratch

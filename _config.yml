@@ -1,8 +1,12 @@
 name: Koodaustunti
 markdown: redcarpet
 pygments: true
+permalink: pretty
 
 viikko: "9.-15.12.2013"
 osallistujatavoite: 10000
 facebook: https://www.facebook.com/events/552063884884177/
 github: https://github.com/jannecederberg/koodaustunti.fi/
+
+kuvat:
+    blogi: /kuvat/blogi/

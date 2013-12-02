@@ -74,7 +74,7 @@
                 <p>
                   Koodaustunti (<a href="http://hourofcode.org">Hour of Code</a>) kansainvälisen tietojenkäsittelyviikon tapahtuma,
                   jonka tavoitteena on innostaa suuri määrä ihmisiä kokeilemaan ohjelmoinnin perusteita yhden tunnin ajan jossain
-                  vaiheessa 9.-15.12.2013 viikkoa.
+                  vaiheessa {{ site.viikko }} viikkoa.
                 </p>
               </section>
           </div>
@@ -119,18 +119,11 @@
               <h2>Yhteystiedot</h2>
                 <div>
                   <div class="row">
-                    <div class="6u">
+                    <div class="12u">
                       <ul class="link-list last-child">
-                        <li><a href="{{ site.facebook }}"><i class="fa fa-facebook-square"></i> Facebook</a></li>
-                        <li><a href="#"><i class="fa fa-twitter"></i> Twitter</a></li>
-                        <li><a href="{{ site.github }}"><i class="fa fa-github"></i> GitHub</a></li>
-                      </ul>
-                    </div>
-                    <div class="6u">
-                      <ul class="link-list last-child">
-                        <li><a href="#">Neque amet dapibus</a></li>
-                        <li><a href="#">Sed mattis quis rutrum</a></li>
-                        <li><a href="#">Accumsan suspendisse</a></li>
+                        <li><a href="{{ site.facebook }}"><i class="fa fa-facebook-square"></i> Facebook</a> - Tapahtuman FB-sivu</li>
+                        <li><a href="https://twitter.com/koodaustunti"><i class="fa fa-twitter"></i> Twitter</a> - Seuraa keskustelua</li>
+                        <li><a href="{{ site.github }}"><i class="fa fa-github"></i> GitHub</a> - Osallistu kehittämällä tätä sivustoa</li>
                       </ul>
                     </div>
                   </div>
@@ -153,16 +146,23 @@
     {% if page.colorbox %}
       <script type="text/javascript" src="/js/vendor/colorbox/jquery.colorbox-min.js"></script>
       <script type="text/javascript">
-        $('.colorbox-iframe').colorbox({
-          iframe: true,
-          width: "90%",
-          height: "100%",
-          title: function() {
-            var $el   = $(this);
-            var url   = $el.attr('href');
-            var title = $el.attr('title');
-            return title + ' [Voit avata näkymän myös <a href="' +url+ '" target="_blank">uuteen ikkunaan</a>]';
-          }
+        $(document).ready( function() {
+          $('img').click(function() {
+            $(this).colorbox({href: $(this).attr('src')});
+            $(this).css('cursor', 'hand');
+          });
+
+          $('.colorbox-iframe').colorbox({
+            iframe: true,
+            width: "90%",
+            height: "100%",
+            title: function() {
+              var $el   = $(this);
+              var url   = $el.attr('href');
+              var title = $el.attr('title');
+              return title + ' [Voit avata näkymän myös <a href="' +url+ '" target="_blank">uuteen ikkunaan</a>]';
+            }
+          });
         });
       </script>
     {% endif %}

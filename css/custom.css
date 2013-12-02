@@ -8,6 +8,24 @@
     width: 350px;
 }
 
+blockquote {
+    margin-left: 2em;
+    /*font-size: 90%;*/
+    font-style: italic;
+}
+
+#header-wrapper h1 {
+    bottom: 50px !important;
+}
+
+#header-wrapper h2 {
+    color: white;
+    position: absolute;
+    bottom: 10px;
+    left: 110px;
+
+}
+
 /*-------( OSALLISTUJAMÄÄRIEN KOROSTUS )-------*/
 #opettajia, #opiskelijoita, #opiskelijoita-puuttuu {
     font-size: 2em;

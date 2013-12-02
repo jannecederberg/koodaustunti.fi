@@ -6,7 +6,7 @@ permalink: /mika-on-koodaustunti/
 
 ## Mikä on Koodaustunti? ([Hour of Code](http://hourofcode.org))
 
-Koodaustunti on yhden tunnin johdatus tietojenkäsittelytieteeseen, joka toteutetaan 9.-15.12.2013 haluamanasi ajankohtana.
+Koodaustunti on yhden tunnin johdatus tietojenkäsittelytieteeseen, joka toteutetaan {{ site.viikko }} haluamanasi ajankohtana.
 Koodaustunnin  tarkoituksena on tutustuttaa "koodaamiseen" ja tehdä sitä arkipäiväiseksi Ja vähentää aiheeseen liittyvää "mystiikkaa" tarjoamalla mahdollisuus oppia perusteita pienellä kynnyksellä.
 
 <p style="text-align: center; font-weight: bold !important;">
