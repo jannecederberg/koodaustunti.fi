@@ -87,18 +87,17 @@
                   <div class="row">
                     <div class="6u">
                       <ul class="link-list">
-                        <li><a href="http://innolukio.fi">Innolukio</a></li>
-                        <li><a href="http://www.kuumapop.fi">Kuumapop</a></li>
-                        <li><a href="http://kuuma.fi/seutuyhteistyo/kilpailukykyiset_ja_kustannustehokkaat_palvelut/sivistystoimen_yhteistyo/tvt-hanke">KuumaTVT</a></li>
-                        <li><a href="http://linkki.cs.helsinki.fi">Linkki (HY)</a></li>
+                        {% assign split_at = site.data.kumppanit.size | divided_by:2 %}
+                        {% for k in site.data.kumppanit | limit:split_at%}
+                          <li><a href="{{ k.url }}">{{ k.nimi }}</a></li>
+                        {% endfor %}
                       </ul>
                     </div>
                     <div class="6u">
                       <ul class="link-list last-child">
-                        <li><a href="http://www.mielikuvituskoulu.fi">Mielikuvituskoulu</a></li>
-                        <li><a href="http://www.opinsys.fi">Opinsys</a></li>
-                        <li><a href="http://opetus.tv">Opetus.tv</a></li>
-                        <li><a href="http://viope.com">Viope Solutions</a></li>
+                        {% for k in site.data.kumppanit | offset:split_at | plus:1 %}
+                          <li><a href="{{ k.url }}">{{ k.nimi }}</a></li>
+                        {% endfor %}
                       </ul>
                     </div>
                     <!--div class="4u">
