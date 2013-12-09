@@ -8,6 +8,8 @@ Voidaksesi täysipainoisesti hyödyntää tässä Git-repositoryssä olevaa sis�
 
 ## Tarvittavien työkalujen asennus
 
+### Debian-pohjaiset Linux-koneet
+
 Debian-pohjaisella Linux-koneella pääset liikkeelle antamalla komentorivi-ikkunassa seuraavat komennot:
 
 ``` bash
@@ -22,3 +24,15 @@ git clone https://github.com/jannecederberg/koodaustunti.fi.git
 ```
 
 Nyt menemällä komentorivi-ikkunassa juuri luomaasi kansioon komennolla `cd koodaustunti.fi`, antamalla komennon `jekyll serve --watch` ja avaamalla Internet-selaimesi osoitteeseen `localhost:4000` näet Koodaustunti-sivuston omalta koneeltasi tarjoiltuna.
+
+### Mites OSX-käyttiksellä (eli Applella)?
+
+Googlaamalla löydät vastaavat ohjeet _Ruby1.9.1-dev_:n ja _Jekyll_:n asentamiseksi. (Apuun tulee esim. `homebrew`-komento.)
+
+### Entä Windowsilla?
+
+Voit yrittää, mutta tod.näk. kyseessä ei oikeen ole miellyttävä kokemus välttämättä, valitettavasti :) Mutta ideana: selvitä miten saat Ruby-tulkin ja Jekyll:n asennettua ja käyttöön Windows-koneella.
+
+## Mitäs sitten kun asennus on tehty?
+
+Käyttämällä HTML, CSS ja Javascript sekä tarpeen mukaan vähän Jekylliä sekä Liquid-template-kieltä pääset muokkaamaan sivua. Kun olet tehnyt muokkauksia/parannuksia, voit ehdottaa niitä _pull request_ -toiminnon kautta tähän pääversioon.
