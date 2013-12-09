@@ -146,7 +146,7 @@
       <script type="text/javascript" src="/js/vendor/colorbox/jquery.colorbox-min.js"></script>
       <script type="text/javascript">
         $(document).ready( function() {
-          $('img').click(function() {
+          $('img.colorbox').click(function() {
             $(this).colorbox({href: $(this).attr('src')});
             $(this).css('cursor', 'hand');
           });
