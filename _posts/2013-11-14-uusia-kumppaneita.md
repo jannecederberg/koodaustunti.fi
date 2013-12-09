@@ -2,6 +2,7 @@
 layout: post
 title:  "Uusia kumppaneita!"
 date:   2013-11-14 13:08:00
+author: Mikko Jordman
 ---
 
 ## Kaksi uutta kumppania

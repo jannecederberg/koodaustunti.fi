@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Näin innostuin kokeilemaan
+author: Mikko Jordman
 ---
 
 Viimeaikoina on puhuttu paljon tietoteknisen osaamisen yhteyksistä oppimiseen ja kouluun. On puhuttu robotiikasta, ohjelmoinnista, tableteista, välineistä, taidoista, tiedoista, diginatiiveista.

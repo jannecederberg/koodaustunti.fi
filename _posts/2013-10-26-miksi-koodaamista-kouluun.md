@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Miksi koodaamista kouluun?
+author: Mikko Jordman
 ---
 
 Klikkaa kuvaa lukeaksesi artikkeli siitä miksi lapsille tulisi opettaa ohjelmointia:

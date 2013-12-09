@@ -2,6 +2,7 @@
 layout: post
 title:  Miksi ja miksi?
 date:   2013-10-31 10:59
+author: Mikko Jordman
 ---
 
 ## Miksi Koodaustunti?

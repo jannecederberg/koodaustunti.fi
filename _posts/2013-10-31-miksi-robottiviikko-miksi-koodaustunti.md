@@ -2,6 +2,7 @@
 layout: post
 title:  Miksi robottiviikko, miksi Koodaustunti?
 date:   2013-10-31 22:57:00
+author: Mikko Jordman
 ---
 
 Käännetään kysymys toisin päin: millainen olisi _tietotekniikaton päivä_?

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Kommentti Facebookista
+author: Mikko Jordman
 ---
 
 [Ville Laitila](https://www.facebook.com/villelai) kirjoitti Facebookissa seuraavasti:
