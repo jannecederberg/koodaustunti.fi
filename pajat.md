@@ -17,4 +17,4 @@ Linkki järjestää {{ site.viikko }} arkipäivisin koodaustunteja koululaisryhm
 
 ## Muita ohjelmointipajoja?
 
-Tiedätkö muita yliopistoja, korkeakouluja tai muita toimijoita, jotka järjestävät tai ovat halukkaita järjestämään vastaavia ohjelmointipajoja eri puolilla Suomea? Jos kyllä, lähetä sähköpostia mikko.jordman (at) gmail.com niin listataan lisää pajoja tänne!
+Tiedätkö muita yliopistoja, korkeakouluja tai muita toimijoita, jotka järjestävät tai ovat halukkaita järjestämään vastaavia ohjelmointipajoja eri puolilla Suomea? Jos kyllä, lähetä sähköpostia [mikko.jordman@gmail.com](mailto:mikko.jordman@gmail.com) niin listataan lisää pajoja tänne!
