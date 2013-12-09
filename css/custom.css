@@ -37,6 +37,10 @@ nav a {
     margin-left: 40px !important;
 }
 
+nav {
+    z-index: 1; /* Nostetaan navi GitHub-ribbonin yläpuolelle */
+}
+
 /*-------( CLEARFIX )-------*/
 .clearfix:before, .clearfix:after {
     content: " ";
