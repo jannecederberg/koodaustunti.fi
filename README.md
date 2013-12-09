@@ -2,6 +2,10 @@
 
 Koodaustunti on yhden tunnin johdatus tietojenkäsittelytieteeseen, joka toteutetaan 9.-15.12.2013 haluamanasi ajankohtana. Koodaustunnin tarkoituksena on tutustuttaa "koodaamiseen" ja tehdä sitä arkipäiväiseksi.
 
+## Disclaimer
+
+Sivuston koodipohja ei ole tällä hetkellä kaikista elegantein sikäli, että jonkin verran sisältöä esim. footeriin ja muihin elementteihin liittyen on layout-tiedostoissa.
+
 ## Kuinka voin auttaa sivuston kehittämisessä?
 
 Voidaksesi täysipainoisesti hyödyntää tässä Git-repositoryssä olevaa sisältöä, on sinulla oltava Linux- tai OSX-käyttöjärjestelmä. Tämän jälkeen on asennettava lisäksi [Ruby](http://www.ruby-lang.org)-ohjelmointikielen tulkki ja [Jekyll](http://jekyllrb.com)-sivugeneraattori.
