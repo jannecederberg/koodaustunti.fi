@@ -14,3 +14,7 @@ Linkki järjestää {{ site.viikko }} arkipäivisin koodaustunteja koululaisryhm
 - Koodaustunti kestää yhden tunnin, mutta halutessaan voi sopia pidemmästäkin ajasta 
 - Koodaustunteja saatavissa arkisin klo 10-18 kampanja-aikana 
 - Ryhmän maksimikoko 20+ opettajat
+
+## Muita ohjelmointipajoja?
+
+Tiedätkö muita yliopistoja, korkeakouluja tai muita toimijoita, jotka järjestävät tai ovat halukkaita järjestämään vastaavia ohjelmointipajoja eri puolilla Suomea? Jos kyllä, lähetä sähköpostia mikko.jordman (at) gmail.com niin listataan lisää pajoja tänne!
