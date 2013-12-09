@@ -19,7 +19,7 @@ Ideoita Koodaustunnin sisällöksi voit katsoa [Miten aloitan?](/miten-aloitan-k
 Pyydä opettajaasi ottamaan asia esille koulussa. Kerro tästä sivustosta ja siitä miksi haluat oppia ohjelmointia ja miksi uskot oppimisen olevan tärkeää tulevaisuuden kannalta. Voit näyttää opettajallesi tämän videon:
 
 <div class="embed-container">
-	<iframe width="420" height="315" src="//www.youtube.com/embed/hfZrX5YDltU" frameborder="0" allowfullscreen></iframe>
+	<iframe width="420" height="315" src="//www.youtube.com/embed/FC5FbmsH4fw" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
