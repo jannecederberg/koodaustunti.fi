@@ -1,3 +1,8 @@
+---
+# Tyhjä YAML front-matter, jotta tavoitemuuttuja saadaan parsittua mukaan.
+# Ilman tätä YAML:ia ei parsita.
+---
+
 /**
  * Osallistujatiedot Google Drivessa olevasta taulukosta sivulle
  * 
@@ -5,7 +10,7 @@
  * @date 22.11.2013
  */
 
-var tavoite = 10000;
+var tavoite = {{ site.osallistujatavoite }};
 
 var gsheet = gsheet || {};
 
