@@ -19,6 +19,10 @@ Tarjoa oppilaillesi {{ site.viikko }} viikon aikana tunnin mittainen mahdollisuu
 
 Mikäli et halua järjestää perehdytystä koulun omissa tiloissa, <a href="/pajat/">voit varata oppilasryhmällesi ajan ohjelmointipajaan</a>.
 
+### Ohjelmoijille
+
+Osaat jo, joten ryhdy koodauskummiksi!  Katso lisää <a href="/ilmoittaudu-mukaan/">Ilmoittaudu mukaan</a> -sivulta.
+
 ## Haluatko lisää haastetta?
 
 Mikäli haluat edetä ohjelmointiharrastuksessasi pidemmälle, tsekkaa nämä mahdollisuudet:
