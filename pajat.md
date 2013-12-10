@@ -2,6 +2,7 @@
 layout: kaksi-palstaa
 title: Pajat
 permalink: /pajat/
+tilastot: true
 ---
 
 ## Helsingin yliopisto

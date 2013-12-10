@@ -3,6 +3,7 @@ layout: kaksi-palstaa
 title: Ilmoittaudu mukaan!
 permalink: /ilmoittaudu-mukaan/
 colorbox: true
+tilastot: true
 ---
 
 Tästä voit ilmoittautua mukaan Koodaustuntiin! Ideana on, että kasvattaa oikealla näkyvää osallistujien määrää ja samalla saada uutta näkemystä siitä miten tietotekniikkaa voi hyödyntää aktiivisena ja luovana toimijana :)

@@ -2,6 +2,7 @@
 layout: kaksi-palstaa
 title: Tekijät
 permalink: /tekijat/
+tilastot: true
 ---
 
 ## Tekijät

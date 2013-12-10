@@ -2,6 +2,7 @@
 layout: yksi-palsta
 title: Kokeile samantien!
 permalink: /kokeile-samantien/
+tilastot: true
 ---
 
 ## Kokeile samantien!

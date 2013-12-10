@@ -2,6 +2,7 @@
 layout: kaksi-palstaa
 title: Kumppanit
 permalink: /kumppanit/
+tilastot: true
 ---
 
 ## Yritys tai yhteisö, tule kumppaniksi

@@ -3,6 +3,7 @@ layout: kaksi-palstaa
 title: Miten aloitan?
 permalink: /miten-aloitan-koodaamaan/
 colorbox: true
+tilastot: true
 ---
 
 ## Miten aloitan koodaamaan?

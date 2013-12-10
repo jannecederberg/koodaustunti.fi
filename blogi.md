@@ -2,8 +2,7 @@
 layout: kaksi-palstaa
 title: Blogi
 permalink: /blogi/
-jarjestys: 10
-
+tilastot: true
 ---
 
 ## Blogiartikkelit

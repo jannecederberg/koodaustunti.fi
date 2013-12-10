@@ -2,6 +2,7 @@
 layout: kaksi-palstaa
 title: Mikä on Koodaustunti?
 permalink: /mika-on-koodaustunti/
+tilastot: true
 ---
 
 ## Mikä on Koodaustunti? ([Hour of Code](http://hourofcode.org))
