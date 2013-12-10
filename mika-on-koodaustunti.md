@@ -11,7 +11,7 @@ Koodaustunnin  tarkoituksena on tutustuttaa "koodaamiseen" ja tehdä sitä arkip
 
 <p style="text-align: center; font-weight: bold !important;">
 Haluamme osoittaa, että kuka tahansa voi oppia perusasiat: olla TEKIJÄ, KEKSIJÄ, INNOVAATTORI!<br />
-Tavoitteemme on saada 10 000 suomalaista koululaista kokeilemaan ohjelmointia!
+Tavoitteemme on saada {{ site.osallistujatavoite }} suomalaista koululaista kokeilemaan ohjelmointia!
 </p>
 
 Tapahtuman englanninkielisillä kotisivuilla on erilaisia ​​itseohjautuvia opetusohjelmia, joiden avulla kuka tahansa voi osallistua, välineenä vain web-selain, tabletti tai älypuhelin. Osallistuminen on mahdollista jopa luokkahuoneissa, ilman tietokoneita. Aikaisempaa kokemusta ei  tarvita.
