@@ -21,4 +21,25 @@ Mikäli et halua järjestää perehdytystä koulun omissa tiloissa, <a href="/pa
 
 ## Haluatko lisää haastetta?
 
-Mikäli englanninkieli ei ole este, tsekkaa [Hour of Code -sivuston laaja harjoitusmateriaalipankki](http://csedweek.org/learn)!
+Mikäli haluat edetä ohjelmointiharrastuksessasi pidemmälle, tsekkaa nämä mahdollisuudet:
+
+### Johdantotaso
+
+- [Hour of Code -sivuston harjoituspankki](http://csedweek.org/learn)
+- [MIT Scratch](http://scratch.mit.edu) - Samantyylinen työskentely-ympäristö kuin Hour of Code -introssa, mutta enemmän mahdollisuuksia!
+
+### Suomenkielistä Scratch-oheismateriaalia
+
+- [Ohjelmointia Scratchin kanssa (PDF)](http://avoinoppikirja.fi/tiedostot/muut/ohjelmointia_scratchin_kanssa.pdf)
+- [Scratch-klubi](https://sites.google.com/site/scratchklubi/)
+- [Ohjelmoinnin opetusta yläkoululla](http://teinitohjelmoivat.blogspot.fi/)
+
+### Opi ohjelmointia pelaamalla
+
+- [Codecombat](http://codecombat.com/) - "Learn to Code JavaScript by Playing a Game"
+
+### Edistyneemmille
+
+- [Codecademy.com](http://www.codecademy.com) - Harjoittele vaikkapa omien nettisivujen tekoa! (HTML, CSS, JavaScript ja lisäksi vaikkapa Ruby tai Python)
+- [Udacity.com](http://www.udacity.com) - Tasokasta avointa opetusta Stanfordin yliopistosta ja Googlelta! Luo vaikka oma hakukone!
+- [Mooc.fi](http://mooc.fi) - Helsingin yliopiston Tietojenkäsittelytieteen laitoksen avoin verkkokurssialusta
