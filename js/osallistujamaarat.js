@@ -26,7 +26,6 @@ gsheet.show_enrollments = function(json) {
 	var puuttuu = tavoite-opiskelijoita;
     if ( puuttuu > 0 ) {
         $('#osallistuja-status').html('Tavoitteesta puuttuu vielä <span id="opiskelijoita-puuttuu">' +puuttuu+ '</span> opiskelijaa!');
-	    $('#opiskelijoita-puuttuu').text(puuttuu);
     } else {
         $('#osallistuja-status').html('Tavoite ylitetty <span id="opiskelijoita-puuttuu">' +Math.round((opiskelijoita/tavoite-1)*100)+ '%</span>:lla!');
     }
