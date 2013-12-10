@@ -25,4 +25,4 @@ Pyydä opettajaasi ottamaan asia esille koulussa. Kerro tästä sivustosta ja si
 
 ### Muille
 
-Voitko innostaa lapsesi tutustumaan ohjelmoinnin perusteisiin tai haluatko ehkä kokeilla itse? Tsekkaa [Miten aloitan?](/miten-aloitan-ohjelmoimaan/) -sivu.
+Voitko innostaa lapsesi tutustumaan ohjelmoinnin perusteisiin tai haluatko ehkä kokeilla itse? Tsekkaa [Miten aloitan?](/miten-aloitan-koodaamaan/) -sivu.
