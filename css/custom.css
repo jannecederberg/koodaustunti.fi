@@ -41,6 +41,18 @@ nav {
     z-index: 1; /* Nostetaan navi GitHub-ribbonin yläpuolelle */
 }
 
+/*-------( GITHUB RIBBON )-------*/
+.github-ribbon > a > img {
+    position: absolute;
+    top: 0;
+    right: 0;
+    border: 0;
+}
+
+html.mobile .github-ribbon > a > img {
+    display: none;
+}
+
 /*-------( CLEARFIX )-------*/
 .clearfix:before, .clearfix:after {
     content: " ";
