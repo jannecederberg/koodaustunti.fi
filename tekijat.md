@@ -20,6 +20,7 @@ Koodaustunti.fi on osa kansainvälistä [Hour of Code](http://hourofcode.org) -a
 ### Code.org-sisällön [suomenkieliset käännökset](http://crowdin.net/project/codeorg/fi/activity)
 
 - [Heikki Vesalainen](http://crowdin.net/profile/hvesalai/activity)
+- [Juha Kovanen](http://crowdin.net/profile/juhakovanen/activity)
 - [Janne Cederberg](http://crowdin.net/profile/jberg)
 - [Tero Toivanen](http://crowdin.net/profile/teromakotero)
 - [MajinStar](http://crowdin.net/profile/MajinStar)
