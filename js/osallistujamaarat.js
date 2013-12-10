@@ -20,9 +20,14 @@ gsheet.parse_value = function(str) {
 
 gsheet.show_enrollments = function(json) {
 	var opettajia = gsheet.parse_value(json.feed.entry[0].content.$t);
-	var opiskelijoita = gsheet.parse_value(json.feed.entry[1].content.$t);
+	var opiskelijoita = parseInt(gsheet.parse_value(json.feed.entry[1].content.$t));
 	$('#opettajia').text(opettajia);
 	$('#opiskelijoita').text(opiskelijoita);
-	var puuttuu = tavoite-parseInt(opiskelijoita);
-	$('#opiskelijoita-puuttuu').text(puuttuu);
+	var puuttuu = tavoite-opiskelijoita;
+    if ( puuttuu > 0 ) {
+        $('#osallistuja-status').html('Tavoitteesta puuttuu vielä <span id="opiskelijoita-puuttuu">' +puuttuu+ '</span> opiskelijaa!');
+	    $('#opiskelijoita-puuttuu').text(puuttuu);
+    } else {
+        $('#osallistuja-status').html('Tavoite ylitetty <span id="opiskelijoita-puuttuu">' +Math.round((opiskelijoita/tavoite-1)*100)+ '%</span>:lla!');
+    }
 };
