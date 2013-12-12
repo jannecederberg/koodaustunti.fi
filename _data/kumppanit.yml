@@ -1,16 +1,23 @@
 - nimi: Kuumapop
   url: http://www.kuumapop.fi/
+  logo: kuumapop.png
 - nimi: KuumaTVT
   url: http://kuuma.fi/seutuyhteistyo/kilpailukykyiset_ja_kustannustehokkaat_palvelut/sivistystoimen_yhteistyo/tvt-hanke
 - nimi: Linkki (HY)
   url: http://linkki.cs.helsinki.fi/
+  logo: linkki.png
 - nimi: Mielikuvituskoulu
   url: http://www.mielikuvituskoulu.fi/
+  logo: mielikuvituskoulu.jpg
 - nimi: Opinsys
   url: http://www.opinsys.fi/
+  logo: opinsys.png
 - nimi: Opetus.tv
   url: http://opetus.tv/
+  logo: opetus.tv.png
 - nimi: SC5 Online
   url: http://sc5.io/
+  logo: sc5.svg
 - nimi: Viope Solutions
   url: http://viope.com/
+  logo: viope.png
