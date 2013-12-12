@@ -21,4 +21,5 @@ mikko.jordman()gmail.com
 	<li><a href="http://opetus.tv"><img src="/kuvat/kumppanit/opetus.tv.png" alt="Opetus.tv"></a></li>
 	<li><a href="http://www.kuumapop.fi"><img src="/kuvat/kumppanit/kuumapop.png" alt="Kuumapop"></a></li>
 	<li><a href="http://www.mielikuvituskoulu.fi"><img src="/kuvat/kumppanit/mielikuvituskoulu.jpg" alt="Mielikuvituskoulu"></a></li>
+	<li><a href="http://sc5.io/"><img src="/kuvat/kumppanit/sc5logo.svg" alt="SC5 Online Oy"></a></li>
 </ul>
