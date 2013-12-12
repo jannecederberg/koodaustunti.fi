@@ -7,9 +7,9 @@ tilastot: true
 
 ## Tekijät
 
-Koodaustunti.fi on osa kansainvälistä [Hour of Code](http://hourofcode.org) -ajatusta. Sivuston sisältö nojaa vahvasti kansainväliseen materiaaliin. Sivuston tarkoituksena on alentaa suomalaisten käyttäjien kynnystä kokeilla ohjelmointia. Tämän sivuston ja siihen liittyvän englanninkielestä suomeksi käännetyn Hour of Code -materiaalin toteuttamiseen ovat osallistuneet seuraavat henkilöt:
+Koodaustunti.fi on osa kansainvälistä [Hour of Code](http://hourofcode.org) -ajatusta. Sivuston sisältö nojaa vahvasti kansainväliseen materiaaliin. Sivuston tarkoituksena on alentaa suomalaisten käyttäjien kynnystä kokeilla ohjelmointia. Tämän sivuston toteuttamiseen ja [Hour of Code](http://hourofcode.org) -materiaalin suomenkielelle kääntämiseen ovat osallistuneet seuraavat henkilöt:
 
-### Koodaustunti.fi -sivusto
+### Koodaustunti.fi -sivusto ja promoilu
 
 - [Janne Cederberg](http://opetus.tv/tietoa-sivustosta/tekijat/): domain, Jekyll-arkkitehtuuri, HTML+CSS+Javascript where needed, hostaus-järjestelyt
 - [Mikko Jordman](https://twitter.com/MikkoJoo): alkuperäinen blogspot-sivusto ja sen sisältö, Twitter-tili, Facebook-event, promotus
