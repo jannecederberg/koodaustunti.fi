@@ -26,3 +26,5 @@ Koodaustunti.fi on osa kansainvälistä [Hour of Code](http://hourofcode.org) -a
 - [Tero Toivanen](http://crowdin.net/profile/teromakotero)
 - [MajinStar](http://crowdin.net/profile/MajinStar)
 - [MrNerd](http://crowdin.net/profile/MrNerd)
+- [mtreinik](http://crowdin.net/profile/mtreinik/activity)
+- [wallbanga](http://crowdin.net/profile/wallbanga/activity)
