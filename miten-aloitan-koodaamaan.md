@@ -48,3 +48,4 @@ Mikäli haluat edetä ohjelmointiharrastuksessasi pidemmälle, tsekkaa nämä ma
 - [Codecademy.com](http://www.codecademy.com) - Harjoittele vaikkapa omien nettisivujen tekoa! (HTML, CSS, JavaScript ja lisäksi vaikkapa Ruby tai Python)
 - [Udacity.com](http://www.udacity.com) - Tasokasta avointa opetusta Stanfordin yliopistosta ja Googlelta! Luo vaikka oma hakukone!
 - [Mooc.fi](http://mooc.fi) - Helsingin yliopiston Tietojenkäsittelytieteen laitoksen avoin verkkokurssialusta
+- [Ohjelmointi opetuksessa](https://github.com/opinsys/ohjelmointi-opetuksessa) - Ohjelmointia nallen avulla
