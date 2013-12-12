@@ -7,7 +7,7 @@ tilastot: true
 
 ## Tekijät
 
-Koodaustunti.fi on osa kansainvälistä [Hour of Code](http://hourofcode.org) -ajatusta. Sivuston sisältö nojaa vahvasti kansainväliseen materiaaliin. Sivuston tarkoituksena on alentaa suomalaisten käyttäjien kynnystä kokeilla ohjelmointia. Tämän sivuston toteuttamiseen ja [Hour of Code](http://hourofcode.org) -materiaalin suomenkielelle kääntämiseen ovat osallistuneet seuraavat henkilöt:
+Koodaustunti.fi pyrkii tukemaan kansainvälistä [Hour of Code](http://hourofcode.org) -ajatusta. Tarkoituksena on alentaa suomalaisten käyttäjien kynnystä kokeilla ohjelmointia toimimalla osittain uudelleenohjauskanavana virallisiin Hour of Code -materiaaleihin. Koodaustunti.fi-sivuston toteuttamiseen ja [Hour of Code](http://hourofcode.org) -materiaalien suomenkielelle kääntämiseen ovat osallistuneet seuraavat henkilöt:
 
 ### Koodaustunti.fi -sivusto ja promoilu
 
@@ -18,7 +18,7 @@ Koodaustunti.fi on osa kansainvälistä [Hour of Code](http://hourofcode.org) -a
 
 - [Tero Tilus](https://github.com/terotil)
 
-### Code.org-sisällön [suomenkieliset käännökset](http://crowdin.net/project/codeorg/fi/activity)
+### Hour of Code -sisällön [suomenkieliset käännökset](http://crowdin.net/project/codeorg/fi/activity)
 
 - [Heikki Vesalainen](http://crowdin.net/profile/hvesalai/activity)
 - [Juha Kovanen](http://crowdin.net/profile/juhakovanen/activity)
