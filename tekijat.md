@@ -11,7 +11,7 @@ Koodaustunti.fi on osa kansainvälistä [Hour of Code](http://hourofcode.org) -a
 
 ### Koodaustunti.fi -sivusto ja promoilu
 
-- [Janne Cederberg](http://opetus.tv/tietoa-sivustosta/tekijat/): domain, Jekyll-arkkitehtuuri, HTML+CSS+Javascript where needed, hostaus-järjestelyt
+- [Janne Cederberg](http://opetus.tv/tietoa-sivustosta/tekijat/): domain, sisältöä, HTML+CSS+Javascript where needed, hostaus-järjestelyt, [GitHub](https://github.com/jannecederberg/koodaustunti.fi)
 - [Mikko Jordman](https://twitter.com/MikkoJoo): alkuperäinen blogspot-sivusto ja sen sisältö, Twitter-tili, Facebook-event, promotus
 
 ### Sivuston [GitHub-avustajat](https://github.com/jannecederberg/koodaustunti.fi/graphs/contributors)
