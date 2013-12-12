@@ -13,8 +13,12 @@ Linkki järjestää {{ site.viikko }} arkipäivisin koodaustunteja koululaisryhm
 
 - Vierailut voi sopia suoraan sähköpostilla: [linkki@cs.helsinki.fi](mailto:linkki@cs.helsinki.fi)
 - Koodaustunti kestää yhden tunnin, mutta halutessaan voi sopia pidemmästäkin ajasta 
-- Koodaustunteja saatavissa arkisin klo 10-18 kampanja-aikana 
+- Koodaustunteja saatavissa arkisin klo 10-18 kampanja-aikana
 - Ryhmän maksimikoko 20+ opettajat
+
+## SC5 Online Oy
+
+Koodaustunnin järjestämisestä kiinnostuneet opettajat, jotka haluavat tukea Jyväskylässä 20.12.2013 mennessä järjestettävän tunnin ohjaamiseen, voivat tiedustella [SC5 Online Oy](http://sc5.io/):n ohjelmoijia vierailemaan koodaustunnille.  Yhteydenotot [tero.tilus@sc5.io](mailto:tero.tilus@sc5.io) tai 050 3635 235.
 
 ## Muita ohjelmointipajoja?
 
