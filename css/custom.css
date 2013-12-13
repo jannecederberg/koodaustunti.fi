@@ -30,8 +30,8 @@ blockquote {
 }
 
 #logo {
-    background-image: url('/kuvat/koodaustunti_white.png');
-    background-size: 90%;
+    background-image: url('/kuvat/koodaustunti_logo_plain.png');
+    background-size: contain;
     background-repeat: no-repeat;
 }
 
