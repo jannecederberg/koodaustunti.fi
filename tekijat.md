@@ -9,7 +9,7 @@ tilastot: true
 
 Koodaustunti.fi pyrkii tukemaan kansainvälistä [Hour of Code](http://hourofcode.org) -ajatusta. Tarkoituksena on alentaa suomalaisten käyttäjien kynnystä kokeilla ohjelmointia toimimalla osittain uudelleenohjauskanavana virallisiin Hour of Code -materiaaleihin. Koodaustunti.fi-sivuston toteuttamiseen ja [Hour of Code](http://hourofcode.org) -materiaalien suomenkielelle kääntämiseen ovat osallistuneet seuraavat henkilöt:
 
-### Koodaustunti.fi -sivusto ja promoilu
+### Koodaustunti.fi -sivusto ja siihen liittyvä web-preesens
 
 - [Janne Cederberg](http://opetus.tv/tietoa-sivustosta/tekijat/): domain, sisältöä, HTML+CSS+Javascript where needed, hostaus-järjestelyt, [GitHub](https://github.com/jannecederberg/koodaustunti.fi)
 - [Mikko Jordman](https://twitter.com/MikkoJoo): alkuperäinen blogspot-sivusto ja sen sisältö, Twitter-tili, Facebook-event, promotus
