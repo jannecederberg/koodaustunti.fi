@@ -12,7 +12,8 @@ Ohjelmointi on paljolti niinkuin urheilu, parhaiten oppii kun alkaa tehdä! Hyv�
 
 ### Kaikille
 
-Aloittaminen ei ole vaikeaa! <a title="Kokeile tästä!" href="http://learn.code.org/hoc/1" class="button-big" target="_blank">Kokeile samantien!</a>
+<a href="http://learn.code.org/hoc/1" class="button-big" target="_blank">Kokeile samantien! (1h)</a>
+<a href="http://learn.code.org" class="button-big">Haluan lisää! (15-25h)</a>
 
 ### Opettajille
 
@@ -30,6 +31,7 @@ Mikäli haluat edetä ohjelmointiharrastuksessasi pidemmälle, tsekkaa nämä ma
 
 ### Johdantotaso
 
+- [Learn.Code.org:n 15-25 tunnin johdanto ohjelmointiin](http://learn.code.org) (sama linkki kuin yllä mainittu "Haluan lisää!" -nappi)
 - [Hour of Code -sivuston harjoituspankki](http://csedweek.org/learn)
 - [MIT Scratch](http://scratch.mit.edu) - Samantyylinen työskentely-ympäristö kuin Hour of Code -introssa, mutta enemmän mahdollisuuksia!
 
