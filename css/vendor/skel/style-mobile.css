@@ -259,7 +259,7 @@ body, input, textarea, select
 			display: block;
 			text-align: center;
 			font-size: 1.2em;
-			font-family: 'Lobster', sans-serif;
+			/*font-family: 'Lobster', sans-serif;*/
 			line-height: 44px;
 		}
 
