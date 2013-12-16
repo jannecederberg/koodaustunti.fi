@@ -13,9 +13,11 @@ permalink: /videot/
   <div class="4u">
     <h2>Hour of Code'n lyhyt esittely</h2>
     <p>
+      {% if site.viikko %}
       Joulukuussa 2013 ({{ site.viikko }}) Yhdysvalloissa järjestetään teemaviikko, jonka tavoitteena on innostaa
-      10 miljoonaa ihmistä kokeilemaan ohjelmointia yhden tunnin ajan. Tarkoituksena on välittää käsitystä siitä
-      ettei ohjelmointi ole niin vaikeaa kuin yleisesti kuvitellaan.
+      10 miljoonaa ihmistä kokeilemaan ohjelmointia yhden tunnin ajan.
+      {% endif %}
+      Tarkoituksena on välittää käsitystä siitä ettei ohjelmointi ole niin vaikeaa kuin yleisesti kuvitellaan.
     </p>
     <p>
       <a href="/miten-aloitan-koodaamaan/" class="button-big">Okei, haluan kokeilla!</a>

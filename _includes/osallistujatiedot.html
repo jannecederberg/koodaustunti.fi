@@ -1,6 +1,6 @@
 <h2>Ilmoittautuneita</h2>
 <p>
-    Suomessa tavoitteena on saada {{ site.osallistujatavoite }} koululaista/opiskelijaa kokeilemaan ohjelmointia tunnin ajan {{ site.viikko }} välillä.
+    Suomessa tavoitteena on saada {{ site.osallistujatavoite }} koululaista/opiskelijaa kokeilemaan ohjelmointia tunnin ajan{% if site.viikko %} {{ site.viikko }} välillä{% endif %}.
 </p>
 <p>
     Tällä hetkellä ilmoittautuneita on <span id="opettajia"></span> opettajaa ja <span id="opiskelijoita"></span> opiskelijaa!

@@ -17,7 +17,7 @@ Ohjelmointi on paljolti niinkuin urheilu, parhaiten oppii kun alkaa tehdä! Hyv�
 
 ### Opettajille
 
-Tarjoa oppilaillesi {{ site.viikko }} viikon aikana tunnin mittainen mahdollisuus em. <a href="http://learn.code.org/hoc/1" target="_blank">perehdytyksen</a> läpikäymiseen. <a href="/ilmoittaudu-mukaan/">Ilmoitathan oppilaasi mukaan</a> niin pääsemme {{ site.osallistujatavoite}} suomalaisen osallistujan tavoitteeseen!
+Tarjoa oppilaillesi {% if site.viikko %}{{ site.viikko }} viikon aikana{% endif %} tunnin mittainen mahdollisuus em. <a href="http://learn.code.org/hoc/1" target="_blank">perehdytyksen</a> läpikäymiseen. <a href="/ilmoittaudu-mukaan/">Ilmoitathan oppilaasi mukaan</a> niin pääsemme {{ site.osallistujatavoite}} suomalaisen osallistujan tavoitteeseen!
 
 Mikäli et halua järjestää perehdytystä koulun omissa tiloissa, <a href="/pajat/">voit varata oppilasryhmällesi ajan ohjelmointipajaan</a>.
 
