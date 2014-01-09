@@ -10,6 +10,8 @@ Sivuston koodipohja ei ole tällä hetkellä kaikista elegantein sikäli, että 
 
 Voidaksesi täysipainoisesti hyödyntää tässä Git-repositoryssä olevaa sisältöä, on sinulla oltava Linux- tai OSX-käyttöjärjestelmä. Tämän jälkeen on asennettava lisäksi [Ruby](http://www.ruby-lang.org)-ohjelmointikielen tulkki ja [Jekyll](http://jekyllrb.com)-sivugeneraattori.
 
+Voit myös tehdä tarvittavat muutokset selaimen kautta, siis GitHubissa, kirjautumalla sisään ja klikkaamalla "edit" halauamasi tiedoston yläreunassa. Selaimenkin kautta voi siis lähettää pull-pyynnön!
+
 ## Tarvittavien työkalujen asennus
 
 ### Debian-pohjaiset Linux-koneet
