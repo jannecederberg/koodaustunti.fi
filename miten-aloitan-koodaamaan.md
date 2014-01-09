@@ -31,7 +31,7 @@ Mikäli haluat edetä ohjelmointiharrastuksessasi pidemmälle, tsekkaa nämä ma
 
 ### Johdantotaso
 
-- [Learn.Code.org:n 15-25 tunnin johdanto ohjelmointiin](http://learn.code.org) (sama linkki kuin yllä mainittu "Haluan lisää!" -nappi)
+- Learn.Code.org:n [15-25 tunnin johdanto ohjelmointiin](http://learn.code.org) (sama linkki kuin yllä mainittu "Haluan lisää!" -nappi)
 - [Hour of Code -sivuston harjoituspankki](http://csedweek.org/learn)
 - [MIT Scratch](http://scratch.mit.edu) - Samantyylinen työskentely-ympäristö kuin Hour of Code -introssa, mutta enemmän mahdollisuuksia!
 
