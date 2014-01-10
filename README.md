@@ -37,7 +37,7 @@ Googlaamalla löydät vastaavat ohjeet _Ruby1.9.1-dev_:n ja _Jekyll_:n asentamis
 
 ### Entä Windowsilla?
 
-Voit yrittää, mutta tod.näk. kyseessä ei oikeen ole miellyttävä kokemus välttämättä, valitettavasti :) Mutta ideana: selvitä miten saat Ruby-tulkin ja Jekyll:n asennettua ja käyttöön Windows-koneella.
+Selvitä miten saat Ruby-tulkin ja Jekyll:n asennettua ja käyttöön Windows-koneella. Tämän jälkeen pääset vauhtiin. JOKU HALUKAS VOI TÄYDENTÄÄ NÄITÄ OHJEITA PULL REQUESTIN KAUTTA :)
 
 ## Mitäs sitten kun asennus on tehty?
 
