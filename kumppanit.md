@@ -17,6 +17,6 @@ mikko.jordman()gmail.com
 
 <ul class="kumppanit clearfix">
     {% for k in site.data.kumppanit %}
-        {% if k.logo %}<li><a href="{{ k.url }}"><img src="/kuvat/kumppanit/{{ k.logo }}" alt="{{ k.nimi }}"></a></li>{% endif %}
+        <li><a href="{{ k.url }}">{% if k.logo %}<img src="/kuvat/kumppanit/{{ k.logo }}" alt="{{ k.nimi }}">{% else %}{{ k.nimi }}{% endif %}</a></li>
     {% endfor %}
 </ul>
