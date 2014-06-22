@@ -18,6 +18,8 @@ Koodaustunti.fi pyrkii tukemaan kansainvälistä [Hour of Code](http://hourofcod
 ### Sivuston [GitHub-avustajat](https://github.com/jannecederberg/koodaustunti.fi/graphs/contributors)
 
 - [Tero Tilus](https://github.com/terotil)
+- [Anna von Zansen](https://github.com/annavonzansen)
+- [Jouni Korhonen](https://github.com/jpkorhonen)
 
 ### Hour of Code -sisällön [suomenkieliset käännökset](http://crowdin.net/project/codeorg/fi/activity)
 
