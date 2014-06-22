@@ -25,9 +25,9 @@ Koodaustunti.fi pyrkii tukemaan kansainvälistä [Hour of Code](http://hourofcod
 
 - [Heikki Vesalainen](http://crowdin.net/profile/hvesalai/activity)
 - [Juha Kovanen](http://crowdin.net/profile/juhakovanen/activity)
-- [Janne Cederberg](http://crowdin.net/profile/jberg)
-- [Tero Toivanen](http://crowdin.net/profile/teromakotero)
-- [MajinStar](http://crowdin.net/profile/MajinStar)
-- [MrNerd](http://crowdin.net/profile/MrNerd)
+- [Janne Cederberg](http://crowdin.net/profile/jberg/activity)
+- [Tero Toivanen](http://crowdin.net/profile/teromakotero/activity)
+- [MajinStar](http://crowdin.net/profile/MajinStar/activity)
+- [MrNerd](http://crowdin.net/profile/MrNerd/activity)
 - [mtreinik](http://crowdin.net/profile/mtreinik/activity)
 - [wallbanga](http://crowdin.net/profile/wallbanga/activity)
