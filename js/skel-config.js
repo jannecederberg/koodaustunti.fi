@@ -1,3 +1,7 @@
+---
+# Tyhjä frontmatter, jotta YAML-muuttujat parsitaan
+---
+
 /*
 	Halcyonic 3.1 by HTML5 UP
 	html5up.net | @n33co
@@ -6,7 +10,7 @@
 
 window._skel_config = {
 	preset: 'standard',
-	prefix: '/css/vendor/skel/style',
+	prefix: '{{ site.domain }}/css/vendor/skel/style',
 	resetCSS: true,
 	breakpoints: {
 		'1000px': {

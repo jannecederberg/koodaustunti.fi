@@ -1,3 +1,6 @@
+---
+# Tyhjä frontmatter, jotta YAML-muuttujat parsitaan
+---
 
 /*-------( YLEISTÄ )-------*/
 .button-big {
@@ -30,7 +33,7 @@ blockquote {
 }
 
 #logo {
-    background-image: url('/kuvat/koodaustunti_logo_white-red.png');
+    background-image: url('{{ site.domain }}/kuvat/koodaustunti_logo_white-red.png');
     background-size: contain;
     background-repeat: no-repeat;
 }
