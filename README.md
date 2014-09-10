@@ -8,7 +8,7 @@ Sivuston koodipohja ei ole tällä hetkellä kaikista elegantein sikäli, että 
 
 ## Kuinka voin auttaa sivuston kehittämisessä?
 
-Näiden ohjeiden avulla aika helpostikin :)
+Näiden ohjeiden avulla aika helpostikin. Vaiheita on "muutama", mutta kun kokeilet niin huomaat, ettei ole niin vaikeata kuin ensin voisi kuvitella :)
 
 1. Luo itsellesi tunnus GitHub.com -palveluun
 2. Mene osoitteeseen github.com/jannecederberg/koodaustunti.fi (taidat olla jo oikeassa paikassa kun luet kerran tätä :)
@@ -24,8 +24,6 @@ Näiden ohjeiden avulla aika helpostikin :)
 12. Näet nyt (max parin minuutin viiveellä) tekemäsi muutokset omassa kopiossasi koodaustunti.fi-sivustoa
 13. Tee tarvittaessa lisää kokeiluja/muutoksia
 14. Tee pull request, jolloin koodaustunti.fi:n ylläpitäjät (minä ja ehkä muitakin) saamme ilmoituksen muutosehdotuksesta. Pull requestin teko-ohjeet: https://help.github.com/articles/creating-a-pull-request
-
-Vaiheita on "muutama", mutta kun kokeilet niin huomaat, ettei ole niin vaikeata kuin ensin ehkä tuntuisi :)
 
 
 ## Entä jos en halua muokata tiedostoja selaimessa?
