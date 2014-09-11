@@ -24,8 +24,10 @@ Koodauskurssi [Tapiolan kirjastossa](http://www.helmet.fi/fi-FI/Kirjastot_ja_pal
 
 ## Jyväskylä
 
-Koodaustunnin järjestämisestä kiinnostuneet opettajat, jotka haluavat tukea Jyväskylässä 20.12.2013 mennessä järjestettävän tunnin ohjaamiseen, voivat tiedustella [SC5 Online Oy](http://sc5.io/):n ohjelmoijia vierailemaan koodaustunnille.  Yhteydenotot [tero.tilus@sc5.io](mailto:tero.tilus@sc5.io) tai 050 3635 235.
+Koodaustunnin järjestämisestä kiinnostuneet opettajat, jotka haluavat tukea Jyväskylässä järjestettävän tunnin ohjaamiseen, voivat tiedustella [SC5 Online Oy](http://sc5.io/):n ohjelmoijia vierailemaan koodaustunnille.  Yhteydenotot [tero.tilus@sc5.io](mailto:tero.tilus@sc5.io) tai 050 3635 235.
 
 ## Muita ohjelmointipajoja?
 
 Tiedätkö muita yliopistoja, korkeakouluja tai muita toimijoita, jotka järjestävät tai ovat halukkaita järjestämään vastaavia ohjelmointipajoja eri puolilla Suomea? Jos kyllä, lähetä sähköpostia [mikko.jordman@gmail.com](mailto:mikko.jordman@gmail.com) niin listataan lisää pajoja tänne!
+
+Voit myös itse osallistua tämän sivuston päivittämiseen, katso [ohjeet](https://github.com/jannecederberg/koodaustunti.fi/blob/gh-pages/README.md) ja tervetuloa mukaan!
