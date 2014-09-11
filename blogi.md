@@ -1,11 +1,8 @@
 ---
-layout: yksi-palsta
+layout: kaksi-palstaa
 title: Blogi
-date: 2013-01-01 00:00:00
 permalink: /blogi/
-jarjestys: 10
-ikoni: pencil
-
+tilastot: true
 ---
 
 ## Blogiartikkelit

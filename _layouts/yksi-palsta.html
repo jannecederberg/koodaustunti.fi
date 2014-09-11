@@ -1,46 +1,9 @@
-{% include head.html %}
+---
+layout: base
+---
 
-	<body class="subpage">
-	
-		<!-- Header -->
-		<div id="header-wrapper">
-			<header id="header" class="container">
-				<div class="row">
-					<div class="12u">
-
-						<!-- Logo ja valikko -->
-							{% include logo-ja-valikko.html %}
-
-					</div>
-				</div>
-			</header>
-		</div>
-
-		<!-- Content -->
-		<div id="content-wrapper">
-			<div id="content">
-				<div class="container">
-					<div class="row">
-						<div class="12u">
-						
-							<!-- Main Content -->
-								<section>
-									<!--header>
-										<!--h2>{{ page.title }}</h2-->
-										<!--h3>A generic one column layout</h3-->
-									<!--/header-->
-									
-									{{ content }}
-								</section>
-
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-
-		<!-- Footer -->
-		{% include footer.html %}
-
-	</body>
-</html>
+<div class="12u">
+	<section>
+		{{ content }}
+	</section>
+</div>

@@ -2,6 +2,7 @@
 layout: post
 title:  "Koodauskummiksi - sinä!"
 date:   2013-11-04 09:17:00
+author: Mikko Jordman
 ---
 
 Koodaustunti hakee ohjelmisto- ja mediayrityksistä kummeja, joiden tuella haluamme edistää uusien digitaalisten taitojen leviämistä kouluissa.

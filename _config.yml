@@ -1,4 +1,16 @@
 name: Koodaustunti
-tapahtuman-paivays: 9.-15.12.2013
 markdown: redcarpet
 pygments: true
+permalink: pretty
+
+domain: http://koodaustunti.fi
+viikko: 
+osallistujatavoite: 10000
+facebook: https://www.facebook.com/events/552063884884177/
+github_repo: https://github.com/jannecederberg/koodaustunti.fi
+
+html_description: "Koodaustunti on yhden tunnin mittainen johdatus tietojenkäsittelytieteeseen, joka toteutetaan {{ site.viikko }} haluamanasi ajankohtana. Koodaustunnin tarkoituksena on tutustuttaa 'koodaamiseen' ja tehdä sitä arkipäiväiseksi."
+html_keywords: "ohjelmointi, ohjelmoija, koodari, koodaus, html, css, javascript, angry birds, tulevaisuus, alakoulu, yläkoulu, ala-aste, ylä-aste, lukio, ammattikoulu, amis, amk, ammattikorkeakoulu, yliopisto, tkk"
+
+kuvat:
+    blogi: /kuvat/blogi/

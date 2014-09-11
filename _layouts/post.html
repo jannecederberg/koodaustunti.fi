@@ -1,9 +1,28 @@
 ---
-layout: kaksi-palstaa
+layout: base
 ---
-<h2>{{ page.title }}</h2>
-<p class="meta">{{ page.date | date:"%d.%m.%Y" }}</p>
 
-<div class="post">
-{{ content }}
+<div class="8u">
+	<section>
+		<h2>{{ page.title }}</h2>
+		<p class="meta">{{ page.date | date:"%d.%m.%Y" }}, kirjoittaja: {{ page.author }}</p>
+
+		<div class="post">
+			{{ content }}
+		</div>
+	</section>
+</div>
+
+<div class="4u">
+	
+	<!-- Sidebar -->
+	<section>
+		<header>
+			<h2>Blogi-artikkelit</h2>
+			<ul>
+				{% for artikkeli in site.posts %}
+					<li>{{ artikkeli.date | date:"%d.%m.%Y" }}: <a href="{{ artikkeli.url }}">{{ artikkeli.title }}</a></li>
+				{% endfor %}
+			</ul>
+	</section>
 </div>

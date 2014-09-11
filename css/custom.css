@@ -1,6 +1,82 @@
+---
+# Tyhjä frontmatter, jotta YAML-muuttujat parsitaan
+---
+
+/*-------( YLEISTÄ )-------*/
 .button-big {
     color: white !important;
 }
+
+.kumppanit li {
+    height: 90px;
+    float: left;
+    width: 350px;
+}
+
+blockquote {
+    margin-left: 2em;
+    /*font-size: 90%;*/
+    font-style: italic;
+}
+
+/*-------( HEADER JA LOGO )-------*/
+#header-wrapper h1 {
+    bottom: 50px !important;
+}
+
+#header-wrapper h2 {
+    color: white;
+    position: absolute;
+    bottom: 10px;
+    left: 50px;
+
+}
+
+#logo {
+    background-image: url('{{ site.domain }}/kuvat/koodaustunti_logo_white-red.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#logo > span {
+    visibility: hidden;
+
+}
+
+/*-------( OSALLISTUJAMÄÄRIEN KOROSTUS )-------*/
+#opettajia, #opiskelijoita, #opiskelijoita-puuttuu {
+    font-size: 2em;
+    color: orange;
+}
+
+/*-------( PÄÄVALIKON SÄÄTÖÄ )-------*/
+nav a {
+    margin-left: 40px !important;
+}
+
+nav {
+    z-index: 1; /* Nostetaan navi GitHub-ribbonin yläpuolelle */
+}
+
+/*-------( GITHUB RIBBON )-------*/
+.github-ribbon > a > img {
+    position: absolute;
+    top: 0;
+    right: 0;
+    border: 0;
+}
+
+html.mobile .github-ribbon > a > img {
+    display: none;
+}
+
+/*-------( CLEARFIX )-------*/
+.clearfix:before, .clearfix:after {
+    content: " ";
+    display: table;
+}
+.clearfix:after { clear: both; }
+.clearfix { *zoom: 1; }
 
 /*-------( RESPONSIVE EMBEDS )-------*/
 /* see: http://amobil.se/2011/11/responsive-embeds/ */

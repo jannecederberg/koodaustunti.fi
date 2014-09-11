@@ -1,12 +1,14 @@
-<h1><a href="/" id="logo">{{ site.name }}</a></h1>
+<h1><a href="{{ site.domain }}/" id="logo"><span>{{ site.name }}</span></a></h1>
+{% if site.viikko %}<h2>&mdash; {{ site.viikko }} &mdash;</h2>{% endif %}
+<!--<h2>Viikolla 9.-15.12.2013: 8415 uniikkia kävijää</h2>-->
 
 <nav id="nav">
   <!--a href="index.html">Etusivu</a-->
-  <a href="/mika-on-koodaustunti/">Mikä?</a>
-  <a href="/videot/">Esittelyvideot</a>
-  <a href="/ohjeet/">Miten aloitan?</a>
-  <a href="/pajat/">Pajat</a>
-  <a href="/kumppanit/">Kumppanit</a>
-  <a href="">Mukaan!</a>
-  <a href="/blogi/">Blogi</a>
+  <a href="{{ site.domain }}/mika-on-koodaustunti/">Mikä?</a>
+  <a href="{{ site.domain }}/videot/">Esittelyvideot</a>
+  <a href="{{ site.domain }}/miten-aloitan-koodaamaan/">Miten aloitan?</a>
+  <a href="{{ site.domain }}/pajat/">Pajat</a>
+  <a href="{{ site.domain }}/ilmoittaudu-mukaan/">Ilmoittaudu!</a>
+  <a href="{{ site.domain }}/kumppanit/">Kumppanit</a>
+  <a href="{{ site.domain }}/blogi/">Blogi</a>
 </nav>

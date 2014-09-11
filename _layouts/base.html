@@ -1,0 +1,193 @@
+<!DOCTYPE HTML>
+<!--
+  Halcyonic 3.0 by HTML5 UP
+  html5up.net | @n33co
+  Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <title>{% if page.url != "/" %}{{ page.title }} | {% endif %}{{ site.name }}{% if site.viikko %}, {{ site.viikko }}{% endif %}</title>
+    <meta name="description" content="{{ site.html_description }}" />
+    <meta name="keywords" content="{{ site.html_keywords }}" />
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" />
+    <noscript>
+      <link rel="stylesheet" href="{{ site.domain }}/css/vendor/skel/skel-noscript.css" />
+      <link rel="stylesheet" href="{{ site.domain }}/css/vendor/skel/style.css" />
+      <link rel="stylesheet" href="{{ site.domain }}/css/vendor/skel/style-desktop.css" />
+    </noscript>
+    <!--[if lte IE 9]><link rel="stylesheet" href="/css/vendor/skel/ie9.css" /><![endif]-->
+    <!--[if lte IE 8]><script src="/js/vendor/html5shiv.js"></script><![endif]-->
+    <link rel="stylesheet" href="{{ site.domain }}/css/custom.css" />
+    {% if page.colorbox %}
+    <link rel="stylesheet" type="text/css" href="{{ site.domain }}/css/vendor/colorbox/colorbox.css" />
+    {% endif %}
+    <meta property="og:title" content="Koodaustunti {{ site.viikko }}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="{{ site.domain }}/kuvat/koodaustunti_logo_og-image.jpg" />
+    <meta property="og:url" content="{{ site.domain }}" />
+    <meta property="og:description" content="{{ site.html_description }}" />
+    <meta property="og:locale" content="fi_FI" />
+    <meta property="og:site_name" content="Koodaustunti.fi" />
+    <meta property="fb:admins" content="567656110" />
+  </head>
+
+  <body>
+
+    <!-- Header -->
+    <div id="header-wrapper">
+      <header id="header" class="container">
+        <div class="row">
+          <div class="12u">
+
+            <!-- Logo ja valikko -->
+            {% include logo-ja-valikko.html %}
+
+          </div>
+        </div>
+      </header>
+
+      {% if page.callToAction %}
+      <div id="banner">
+        <div class="container">
+          {% include _etusivu_call-to-action.html %}
+        </div>
+      </div>
+      {% endif %}
+    </div>
+
+    <!-- Content -->
+    <div id="content-wrapper">
+      <div id="content">
+        <div class="container">
+          <div class="row">
+            {{ content }}
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <div id="footer-wrapper">
+      <footer id="footer" class="container">
+        <div class="row">
+          <div class="4u">
+            <!-- Blurb -->
+              <section>
+                {% include _footer_koodaustunnin-taustaa.html %}
+              </section>
+          </div>
+
+          <div class="4u">
+            <!-- Links -->
+              <section>
+                <h2>Yhteistyökumppanit</h2>
+                <div>
+                  <div class="row">
+                    <div class="6u">
+                      <ul class="link-list">
+                        {% assign split_at = site.data.kumppanit.size | divided_by:2 %}
+                        {% for k in site.data.kumppanit | limit:split_at%}
+                          <li><a href="{{ k.url }}">{{ k.nimi }}</a></li>
+                        {% endfor %}
+                      </ul>
+                    </div>
+                    <div class="6u">
+                      <ul class="link-list last-child">
+                        {% for k in site.data.kumppanit | offset:split_at | plus:1 %}
+                          <li><a href="{{ k.url }}">{{ k.nimi }}</a></li>
+                        {% endfor %}
+                      </ul>
+                    </div>
+                    <!--div class="4u">
+                      <ul class="link-list">
+                        <li><a href="http://www.rovio.com">Rovio</a></li>
+                        <li><a href="http://www.supercell.net">Supercell</a></li>
+                        <li><a href="http://www.remedygames.com">Remedy</a></li>
+                        <li><a href="http://www.neogames.fi">Neogames</a></li>
+                      </ul>
+                    </div-->
+                  </div>
+                </div>
+              </section>
+          </div>
+
+          <div class="4u">
+            <section>
+              <h2>Yhteystiedot</h2>
+                <div>
+                  <div class="row">
+                    <div class="12u">
+                      <ul class="link-list last-child">
+                        <li><a href="{{ site.facebook }}"><i class="fa fa-facebook-square"></i> Facebook</a> - Tapahtuman FB-sivu</li>
+                        <li><a href="https://twitter.com/koodaustunti"><i class="fa fa-twitter"></i> Twitter</a> - Seuraa keskustelua</li>
+                        <li><a href="{{ site.github_repo }}"><i class="fa fa-github"></i> GitHub</a> - Osallistu kehittämällä tätä sivustoa</li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+            </section>
+          </div>
+
+        </div>
+      </footer>
+    </div>
+
+    <!-- Copyright -->
+    <div id="copyright">
+      Koodaustunti.fi: <a href="{{ site.domain }}/tekijat/">Mikko J., Janne C. ja muut</a> | Videot: <a href="http://code.org">Code.org</a> | Angry Birds: <a href="http://www.rovio.com">Rovio</a> | Layout: <a href="http://html5up.net">HTML5 UP</a>
+    </div>
+
+    <script src="{{ site.domain }}/js/vendor/jquery.min.js"></script>
+    <script src="{{ site.domain }}/js/skel-config.js"></script>
+    <script src="{{ site.domain }}/js/vendor/skel/skel.min.js"></script>
+    <script src="{{ site.domain }}/js/vendor/skel/skel-panels.min.js"></script>
+
+    {% if page.tilastot %}
+    <script type="text/javascript" src="{{ site.domain }}/js/osallistujamaarat.js"></script>
+    <script type="text/javascript" src="//spreadsheets.google.com/feeds/list/0Ahxw_PAkk4mkdDNESF9SbU8zZ2lIbWdzUHZwTFJyTWc/2/public/basic?alt=json-in-script&callback=gsheet.show_enrollments"></script>
+    {% endif %}
+
+    {% if page.colorbox %}
+      <script type="text/javascript" src="{{ site.domain }}/js/vendor/colorbox/jquery.colorbox-min.js"></script>
+      <script type="text/javascript">
+        $(document).ready( function() {
+          $('img.colorbox').click(function() {
+            $(this).colorbox({href: $(this).attr('src')});
+            $(this).css('cursor', 'hand');
+          });
+
+          $('.colorbox-iframe').colorbox({
+            iframe: true,
+            width: "90%",
+            height: "100%",
+            title: function() {
+              var $el   = $(this);
+              var url   = $el.attr('href');
+              var title = $el.attr('title');
+              return title + ' [Voit avata näkymän myös <a href="' +url+ '" target="_blank">uuteen ikkunaan</a>]';
+            }
+          });
+        });
+      </script>
+    {% endif %}
+    
+    <div class="github-ribbon">
+      <a href="{{ site.github_repo }}"><img src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub"></a>
+    </div>
+
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-374160-17']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </body>
+</html>
