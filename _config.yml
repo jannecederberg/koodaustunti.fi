@@ -3,7 +3,7 @@ markdown: redcarpet
 pygments: true
 permalink: pretty
 
-domain: http://annavonzansen.github.io/koodaustunti.fi
+domain: http://koodaustunti.fi
 viikko: 
 osallistujatavoite: 10000
 facebook: https://www.facebook.com/events/552063884884177/
