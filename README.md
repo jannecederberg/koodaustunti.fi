@@ -1,12 +1,12 @@
-# Koodaustunti.fi
 
-Koodaustunti on yhden tunnin johdatus tietojenkäsittelytieteeseen, joka toteutetaan 9.-15.12.2013 haluamanasi ajankohtana. Koodaustunnin tarkoituksena on tutustuttaa "koodaamiseen" ja tehdä sitä arkipäiväiseksi.
+Koodaustunti.fi
+===============
 
-## Disclaimer
+Koodaustunti on yhden tunnin johdatus tietojenkäsittelytieteeseen. Koodaustunnin tarkoituksena on tutustuttaa "koodaamiseen" ja tehdä sitä arkipäiväiseksi.
 
-Sivuston koodipohja ei ole tällä hetkellä kaikista elegantein sikäli, että jonkin verran sisältöä esim. footeriin ja muihin elementteihin liittyen on layout-tiedostoissa.
 
-## Kuinka voin auttaa sivuston kehittämisessä?
+Kuinka voin auttaa sivuston kehittämisessä?
+-------------------------------------------
 
 Näiden ohjeiden avulla aika helpostikin. Vaiheita on "muutama", mutta kun kokeilet niin huomaat, ettei ole niin vaikeata kuin ensin voisi kuvitella :)
 
@@ -26,11 +26,13 @@ Näiden ohjeiden avulla aika helpostikin. Vaiheita on "muutama", mutta kun kokei
 14. Tee pull request, jolloin koodaustunti.fi:n ylläpitäjät (minä ja ehkä muitakin) saamme ilmoituksen muutosehdotuksesta. Pull requestin teko-ohjeet: https://help.github.com/articles/creating-a-pull-request
 
 
-## Entä jos en halua muokata tiedostoja selaimessa?
+Entä jos en halua muokata tiedostoja selaimessa?
+------------------------------------------------
 
 Voidaksesi täysipainoisesti hyödyntää tässä Git-repositoryssä olevaa sisältöä, on sinulla oltava Linux- tai OSX-käyttöjärjestelmä. Tämän jälkeen on asennettava lisäksi [Ruby](http://www.ruby-lang.org)-ohjelmointikielen tulkki ja [Jekyll](http://jekyllrb.com)-sivugeneraattori.
 
 Voit myös tehdä tarvittavat muutokset selaimen kautta, siis GitHubissa, kirjautumalla sisään ja klikkaamalla "edit" halauamasi tiedoston yläreunassa. Selaimenkin kautta voi siis lähettää pull-pyynnön!
+
 
 ### Debian-pohjaiset Linux-koneet
 
@@ -49,14 +51,23 @@ git clone https://github.com/jannecederberg/koodaustunti.fi.git
 
 Nyt menemällä komentorivi-ikkunassa juuri luomaasi kansioon komennolla `cd koodaustunti.fi`, antamalla komennon `jekyll serve --watch` ja avaamalla Internet-selaimesi osoitteeseen `localhost:4000` näet Koodaustunti-sivuston omalta koneeltasi tarjoiltuna.
 
+
 ### Mites OSX-käyttiksellä (eli Applella)?
 
 Googlaamalla löydät vastaavat ohjeet _Ruby1.9.1-dev_:n ja _Jekyll_:n asentamiseksi. (Apuun tulee esim. `homebrew`-komento.)
+
 
 ### Entä Windowsilla?
 
 Selvitä miten saat Ruby-tulkin ja Jekyll:n asennettua ja käyttöön Windows-koneella. Tämän jälkeen pääset vauhtiin. JOKU HALUKAS VOI TÄYDENTÄÄ NÄITÄ OHJEITA PULL REQUESTIN KAUTTA :)
 
-## Mitäs sitten kun asennus on tehty?
+
+### Mitäs sitten kun asennus on tehty?
 
 Käyttämällä HTML, CSS ja Javascript sekä tarpeen mukaan vähän Jekylliä sekä Liquid-template-kieltä pääset muokkaamaan sivua. Kun olet tehnyt muokkauksia/parannuksia, voit ehdottaa niitä _pull request_ -toiminnon kautta tähän pääversioon.
+
+
+Disclaimer
+----------
+
+Sivuston koodipohja ei ole tällä hetkellä kaikista elegantein sikäli, että jonkin verran sisältöä esim. footeriin ja muihin elementteihin liittyen on layout-tiedostoissa.
