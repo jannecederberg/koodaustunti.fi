@@ -9,6 +9,6 @@ tilastot: true
 
 <ul>
 	{% for artikkeli in site.posts %}
-		<li>{{ artikkeli.date | date:"%d.%m.%Y" }}: <a href="{{ artikkeli.url }}">{{ artikkeli.title }}</a></li>
+		<li>{{ artikkeli.date | date:"%d.%m.%Y" }}: <a href="{{ site.domain }}{{ artikkeli.url }}">{{ artikkeli.title }}</a></li>
 	{% endfor %}
 </ul>
