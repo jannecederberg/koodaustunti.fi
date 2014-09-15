@@ -10,7 +10,7 @@ tilastot: true
 Koodaustunti on yhden tunnin johdatus tietojenkäsittelytieteeseen, joka toteutetaan {{ site.viikko }} haluamanasi ajankohtana.
 Koodaustunnin  tarkoituksena on tutustuttaa "koodaamiseen" ja tehdä sitä arkipäiväiseksi Ja vähentää aiheeseen liittyvää "mystiikkaa" tarjoamalla mahdollisuus oppia perusteita pienellä kynnyksellä.
 
-Koodaustunnin ([Hour of Code](http://hourofcode.org)) idea on peräisin Yhdysvalloista ja projektia tukevat monet merkittävät tietotekniikka-alan vaikuttajat kuten Facebookin perustaja Mark Zuckerberg, Microsoftin perustaja Bill Gates, Twitterin Jack Dorsey ja Dropboxin Drew Houston. Tämän suomenkielisen sivuston tarkoituksena on madaltaa suomalaisten käyttäjien kynnystä perehtyä aiheeseen.
+Koodaustunnin ([Hour of Code](http://hourofcode.org)) idea on peräisin Yhdysvalloista ja projektia tukevat monet merkittävät tietotekniikka-alan vaikuttajat kuten Facebookin perustaja Mark Zuckerberg, Microsoftin perustaja Bill Gates, Twitterin Jack Dorsey ja Dropboxin Drew Houston. Tänä vuonna Hour of Code vietetään 8.-14.12.2014. Tämän suomenkielisen sivuston tarkoituksena on madaltaa suomalaisten käyttäjien kynnystä perehtyä aiheeseen.
 
 <p style="text-align: center; font-weight: bold !important;">
 Tavoitteena on osoittaa, että kuka tahansa voi oppia perusasiat: olla TEKIJÄ, KEKSIJÄ, INNOVAATTORI!<br />
