@@ -15,11 +15,11 @@ Ohjelmointi on paljolti niinkuin urheilu, parhaiten oppii kun alkaa tehdä! Hyv�
 <a href="http://learn.code.org/hoc/1" class="button-big" target="_blank">Kokeile samantien! (1h)</a>
 <a href="http://learn.code.org" class="button-big">Haluan lisää! (15-25h)</a>
 
-### Opettajille
+### Opettajille ja järjestöille
 
-Tarjoa oppilaillesi {% if site.viikko %}{{ site.viikko }} viikon aikana{% endif %} tunnin mittainen mahdollisuus em. <a href="http://learn.code.org/hoc/1" target="_blank">perehdytyksen</a> läpikäymiseen. <a href="/ilmoittaudu-mukaan/">Ilmoitathan oppilaasi mukaan</a> niin pääsemme {{ site.osallistujatavoite}} suomalaisen osallistujan tavoitteeseen!
+Tarjoa ryhmällesi {% if site.viikko %}{{ site.viikko }} viikon aikana{% endif %} tunnin mittainen mahdollisuus em. <a href="http://learn.code.org/hoc/1" target="_blank">perehdytyksen</a> läpikäymiseen. <a href="/ilmoittaudu-mukaan/">Ilmoitathan oppilaasi mukaan</a> niin pääsemme {{ site.osallistujatavoite}} suomalaisen osallistujan tavoitteeseen!
 
-Mikäli et halua järjestää perehdytystä koulun omissa tiloissa, <a href="/pajat/">voit varata oppilasryhmällesi ajan ohjelmointipajaan</a>.
+Mikäli et halua järjestää perehdytystä omassa koulussa, <a href="/pajat/">voit tutustua ja ilmoittautua muiden järjestämiin pajoihin</a>.
 
 ### Ohjelmoijille
 
@@ -34,6 +34,7 @@ Mikäli haluat edetä ohjelmointiharrastuksessasi pidemmälle, tsekkaa nämä ma
 - Learn.Code.org:n [15-25 tunnin johdanto ohjelmointiin](http://learn.code.org) (sama linkki kuin yllä mainittu "Haluan lisää!" -nappi)
 - [Hour of Code -sivuston harjoituspankki](http://csedweek.org/learn)
 - [MIT Scratch](http://scratch.mit.edu) - Samantyylinen työskentely-ympäristö kuin Hour of Code -introssa, mutta enemmän mahdollisuuksia!
+- [Koodi2016](http://koodi2016.fi) Ensiapua ohjelmoinnin opettamiseen
 
 ### Suomenkielistä Scratch-oheismateriaalia
 
@@ -53,5 +54,5 @@ Mikäli haluat edetä ohjelmointiharrastuksessasi pidemmälle, tsekkaa nämä ma
 
 ### Suomalaisten oppilaitosten tarjoamaa sisältöä
 - [Mooc.fi](http://mooc.fi) - Helsingin yliopiston Tietojenkäsittelytieteen laitoksen avoin verkkokurssialusta
-- [Nuorten poliohjelmointi](http://bit.ly/pelikurssi) - Jyväskylän yliopiston yläkoululaisille ja lukiolaisille suunnattu peliohjelmointikurssi
+- [Nuorten peliohjelmointi](http://bit.ly/pelikurssi) - Jyväskylän yliopiston yläkoululaisille ja lukiolaisille suunnattu peliohjelmointikurssi
 - [Ohjelmointi 1 (C#)](https://trac.cc.jyu.fi/projects/ohj1/wiki/s2013) - Jyväskylän yliopiston peliohjelmointiin suuntautuvat kurssimateriaalit
