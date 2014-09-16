@@ -10,7 +10,7 @@
 
 window._skel_config = {
 	preset: 'standard',
-	prefix: '{{ site.domain }}/css/vendor/skel/style',
+	prefix: '{{ site.root_url }}/css/vendor/skel/style',
 	resetCSS: true,
 	breakpoints: {
 		'1000px': {

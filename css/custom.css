@@ -33,7 +33,7 @@ blockquote {
 }
 
 #logo {
-    background-image: url('{{ site.domain }}/kuvat/koodaustunti_logo_white-red.png');
+    background-image: url('{{ site.root_url }}/kuvat/koodaustunti_logo_white-red.png');
     background-size: contain;
     background-repeat: no-repeat;
 }
