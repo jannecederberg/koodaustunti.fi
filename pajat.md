@@ -10,6 +10,8 @@ tilastot: true
 
 [Linkki](http://linkki.cs.helsinki.fi/) on Helsingin yliopiston tietojenkäsittelytieteen laitoksella toimiva resurssikeskus, joka järjestää tietojenkäsittelystä kiinnostuneilla nuorilla suunnattua harrastetoimintaa ja verkostoitumismahdollisuuksia. Linkki on valtakunnallisen LUMA-keskuksen alainen resurssikeskus. Mahdollisista työpajoista voi tiedustella sähköpostitse osoitteesta [linkki@cs.helsinki.fi](mailto:linkki@cs.helsinki.fi).
 
+Pääkaupunkiseudun Partiolaisten [Hackathon-viikonloppua](http://purkki.partio.fi/piiri-palvelee/koulutus/koulutustarjonta/muu-koulutus/partio-hackathon/) vietetään 24.-26.10.2014 Kiljavalla! Viikonlopun aikana käydään läpi ohjelmoinnin perusteita, kännykkäapplikaatioiden suunnittelua ja oman ohjelman tekoa. Tapahtuma on suunnattu kaikille ohjelmoinnista kiinnostuneille yli 15-vuotiaille, myös ei-vielä-partiolaiset tervetulleita! Ohjelmoija, olet tervetullut Hackathon-staabiin tai koodauskummiksi tapahtumaan!
+
 <!--
 Linkki järjestää {{ site.viikko }} arkipäivisin koodaustunteja koululaisryhmille.
 
