@@ -3,7 +3,7 @@ markdown: redcarpet
 pygments: true
 permalink: pretty
 
-root_url: http://teromakotero.github.io/koodaustunti.fi
+root_url: http://koodaustunti.fi
 viikko: 
 osallistujatavoite: 10000
 facebook: https://www.facebook.com/events/552063884884177/
