@@ -42,7 +42,7 @@ Koodaustunnin järjestämisestä kiinnostuneet opettajat, jotka haluavat tukea J
 
 1. [Kodklubben Svenska Samskolan Tampere 16.9.-9.12.2014](http://events.codeweek.eu/view/978/kodklubben/)
 2. [Apps4Pirkanmaa 2014 Workshop Tampere 7.10.2014](http://events.codeweek.eu/view/858/apps4pirkanmaa-2014-workshop/)
-3. [API hackathon - Mikkeli 11.10.2014](/http://events.codeweek.eu/view/551/api-hackathon-mikkeli)
+3. [API hackathon - Mikkeli 11.10.2014](http://events.codeweek.eu/view/551/api-hackathon-mikkeli/)
 4. [Code School Oulu 11.10.2014](http://events.codeweek.eu/view/733/code-school/)
 5. [Prototyping workshop Tampere 11.-17.10.2014](http://events.codeweek.eu/view/313/prototyping-workshop/)
 6. [Challenge for Finnish Kindergartens and schools Jyv&auml;skyl&auml; 13.10.2014](http://events.codeweek.eu/view/525/challenge-for-finnish-kindergartens-and-schools/)
