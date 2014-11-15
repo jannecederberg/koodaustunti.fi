@@ -40,7 +40,11 @@ blockquote {
 
 #logo > span {
     visibility: hidden;
+}
 
+/*-------( #content -ALUEEN PADDING MOBIILIA VARTEN )-------*/
+html.mobile #content section {
+    padding-top: 60px;
 }
 
 /*-------( OSALLISTUJAMÄÄRIEN KOROSTUS )-------*/
