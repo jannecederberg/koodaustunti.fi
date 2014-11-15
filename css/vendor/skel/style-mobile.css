@@ -1,5 +1,5 @@
 /*
-	Halcyonic by HTML5 UP
+	Halcyonic 3.1 by HTML5 UP
 	html5up.net | @n33co
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
@@ -259,7 +259,7 @@ body, input, textarea, select
 			display: block;
 			text-align: center;
 			font-size: 1.2em;
-			font-weight: 400;
+			/*font-family: 'Lobster', sans-serif;*/
 			line-height: 44px;
 		}
 
@@ -309,7 +309,6 @@ body, input, textarea, select
 	}
 
 		#navPanel .link {
-			display: block;
 			color: #fff;
 			text-decoration: none;
 			font-size: 1.25em;
