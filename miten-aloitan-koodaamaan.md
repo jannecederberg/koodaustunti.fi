@@ -10,10 +10,17 @@ tilastot: true
 
 Ohjelmointi on paljolti niinkuin urheilu, parhaiten oppii kun alkaa tehdä! Hyväksi jääkiekkoilijaksikaan ei kehity vain katsomalla kun muut pelaavat. Eli ei kait siinä muuta kuin liikkeelle, you can do it :)
 
-### Kaikille
+### Perusteet (kesto: 1h)
 
-<a href="http://learn.code.org/hoc/1" class="button-big" target="_blank">Kokeile samantien! (1h)</a>
-<a href="http://learn.code.org" class="button-big">Haluan lisää! (15-25h)</a>
+Voit tehdä perustehtävät eri teemoilla:
+
+<a href="http://learn.code.org/s/hourofcode/reset" class="button-big" target="_blank">Angry Birds</a>
+<a href="http://learn.code.org/s/frozen/reset" class="button-big" target="_blank">Frozen</a>
+<a href="http://learn.code.org/s/flappy/reset" class="button-big" target="_blank">Flappy Bird</a>
+
+### Lisäharjoituksia (kesto: n. 20h)
+
+Oletko harjoitellut jo perusteet? Hienoa! <a href="http://learn.code.org" class="button-big">Tee lisäharjoituksia!</a>
 
 ### Opettajille ja järjestöille
 
