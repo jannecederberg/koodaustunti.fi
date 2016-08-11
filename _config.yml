@@ -1,7 +1,8 @@
 name: Koodaustunti
 markdown: redcarpet
-pygments: true
+highlighter: pygments
 permalink: pretty
+exclude: [Gemfile*]
 
 root_url: http://koodaustunti.fi
 viikko: ''
