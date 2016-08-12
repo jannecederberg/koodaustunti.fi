@@ -1,5 +1,4 @@
 name: Koodaustunti
-markdown: redcarpet
 highlighter: pygments
 permalink: pretty
 exclude: [Gemfile*]
