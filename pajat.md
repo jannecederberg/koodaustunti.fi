@@ -6,7 +6,7 @@ tilastot: true
 ---
 
 ## Helsinki
-[Koodiviikkoa] (http://koodiviikko.fi/) vietetään 13.-18.10.2014 Helsingin yliopiston Kumpulan kampuksella, ohjelmaa lapsille ja aikuisille!
+[Koodiviikkoa](http://koodiviikko.fi/) vietetään 13.-18.10.2014 Helsingin yliopiston Kumpulan kampuksella, ohjelmaa lapsille ja aikuisille!
 
 [Linkki](http://linkki.cs.helsinki.fi/) on Helsingin yliopiston tietojenkäsittelytieteen laitoksella toimiva resurssikeskus, joka järjestää tietojenkäsittelystä kiinnostuneilla nuorilla suunnattua harrastetoimintaa ja verkostoitumismahdollisuuksia. Linkki on valtakunnallisen LUMA-keskuksen alainen resurssikeskus. Mahdollisista työpajoista voi tiedustella sähköpostitse osoitteesta [linkki@cs.helsinki.fi](mailto:linkki@cs.helsinki.fi).
 
@@ -34,11 +34,11 @@ Koodaustunnin järjestämisestä kiinnostuneet opettajat, jotka haluavat tukea J
 
 28.11.2014	8:30-15:00	[Jyväskylän yliopisto/OKL](https://www.jyu.fi/edu/laitokset/okl/) Innokas-hanke järjestää koodausviikkoon liittyvän tapahtuman opettajille ja opettajiksi opiskeleville [Interested in Coding and Robotics?](http://innokas.fi/en/events/coderobotweek2014roadshow). Mukana on myös Scratch-paja.
 
-##Kokkola
+## Kokkola
 
 24.11.2014	8:30-15:00 	[Kokkola	Kaupungintalo](https://www.google.com/maps/preview?hl=en&ie=UTF-8&fb=1&cid=16604083917533602170&q=Kokkolan+kaupungintalo&ei=uYQUVKDqCsu9ygOXwYGABg&ved=0CKoBEPwSMAo) Innokas-hanke järjestää koodausviikkoon liittyvän tapahtuman opettajille ja opettajiksi opiskeleville [Interested in Coding and Robotics?](http://innokas.fi/en/events/coderobotweek2014roadshow). Mukana on myös Scratch-paja.
 
-##Koodausviikon 11.-17.10.2014 tapahtumia Suomessa
+## Koodausviikon 11.-17.10.2014 tapahtumia Suomessa
 
 1. [Kodklubben Svenska Samskolan Tampere 16.9.-9.12.2014](http://events.codeweek.eu/view/978/kodklubben/)
 2. [Apps4Pirkanmaa 2014 Workshop Tampere 7.10.2014](http://events.codeweek.eu/view/858/apps4pirkanmaa-2014-workshop/)
